@@ -29,7 +29,7 @@ Using Blockly, students will control Dash to move, aim, and launch in order to c
 - Plastic cups, blocks, or small boxes  
 - Tape or tiles for making paths  
 - Tablets with Blockly app  
-- Optional: cones, obstacles, or themed props for story immersion
+- Optional: cones, obstacles, or themed props for story immersion (Note: You can create your own unique story for the kids)
 
 ---
 
@@ -37,7 +37,7 @@ Using Blockly, students will control Dash to move, aim, and launch in order to c
 
 ### Storyline
 
-Dash dreams of being a pro basketball player. Today, he’s stepping up to take 3 shots at the hoop—but he needs your help to get the ball in every time.
+Story 1: Dash dreams of being a pro basketball player. Today, he’s stepping up to take 3 shots at the hoop—but he needs your help to get the ball in every time.
 
 ### Setup
 
