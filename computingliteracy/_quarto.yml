@@ -1,37 +1,52 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: 'Code with Chompers'
   search:
     location: navbar
+    type: overlay
   reader-mode: false
   back-to-top-navigation: true
   page-navigation: true
   favicon: "images/logo.svg"
   navbar:
+    left:
+      - text: "⚙️ Settings"
+        menu:
+          - text: "Increase Text Size"
+            href: "javascript:increaseTextSize()"
+          - text: "Decrease Text Size"
+            href: "javascript:decreaseTextSize()"
+          - text: "Toggle High Contrast Mode"
+            href: "javascript:toggleAccessibilityTheme()"
+          - text: "Toggle Dark Mode"
+            href: "javascript:toggleTheme()"
+          - text: "Reset Settings"
+            href: "javascript:resetAccessibilitySettings()"
     right:
       - text: "Outreach Guide"
         href: "technical-leader-guide/index.qmd"
-      - text: "Activities"
-        href: "activities/index.qmd"
+      - text: "K-6 Activities"
+        href: "k-6_activities/index.qmd"
+      - text: "Middle School Outreach"
+        href: "middle_school/index.qmd"
+      - text: "High School Outreach"
+        href: "high_school/index.qmd"
       - text: "About"
         href: "about/index.qmd"
   page-footer:
-    left: '<a href="https://www.cis.allegheny.edu/"><img src="/images/footer_logo.png" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a>'
+    left: '<a href="https://www.cis.allegheny.edu/"><img src="/images/footer_logo.svg" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a>'
     right:
       - icon: github
         href: https://github.com/K-6-computing-literacy/k-6computerliteracywebsite
 
 format:
   html:
-    mainfont: Inter
-    monofont: Roboto
-    fontsize: 1.25em
-    theme:
-      default
+    theme: styles.css
+    include-in-header: 
+      - _includes/settings.html
     highlight-style: github
-    css: css/styles.css
-
 execute:
   freeze: auto

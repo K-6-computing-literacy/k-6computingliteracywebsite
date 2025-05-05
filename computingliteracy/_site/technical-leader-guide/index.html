@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.54">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Guide for Computing Outreach Fellows – Code with Chompers</title>
+<title>Code with Chompers - Guide for Computing Outreach Fellows</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -66,9 +66,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<!-- settings.html -->
+<script src="../_includes/settings.js"></script>
 
 
-<link rel="stylesheet" href="../css/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -83,18 +84,55 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-settings" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">⚙️ Settings</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-settings">    
+        <li>
+    <a class="dropdown-item" href="javascript:increaseTextSize()">
+ <span class="dropdown-text">Increase Text Size</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:decreaseTextSize()">
+ <span class="dropdown-text">Decrease Text Size</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:toggleAccessibilityTheme()">
+ <span class="dropdown-text">Toggle High Contrast Mode</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:toggleTheme()">
+ <span class="dropdown-text">Toggle Dark Mode</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:resetAccessibilitySettings()">
+ <span class="dropdown-text">Reset Settings</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="../technical-leader-guide/index.html" aria-current="page"> 
 <span class="menu-text">Outreach Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../activities/index.html"> 
-<span class="menu-text">Activities</span></a>
+    <a class="nav-link" href="../k-6_activities/index.html"> 
+<span class="menu-text">K-6 Activities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../middle_school/index.html"> 
+<span class="menu-text">Middle School Outreach</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../high_school/index.html"> 
+<span class="menu-text">High School Outreach</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../about/index.html"> 
@@ -102,7 +140,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -118,6 +156,8 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#what-is-the-computing-outreach-program" id="toc-what-is-the-computing-outreach-program" class="nav-link active" data-scroll-target="#what-is-the-computing-outreach-program">What is the Computing Outreach Program?</a></li>
   <li><a href="#what-to-expect-as-a-computing-outreach-fellow" id="toc-what-to-expect-as-a-computing-outreach-fellow" class="nav-link" data-scroll-target="#what-to-expect-as-a-computing-outreach-fellow">What to Expect as a Computing Outreach Fellow</a></li>
+  <li><a href="#helping-middle-school-students" id="toc-helping-middle-school-students" class="nav-link" data-scroll-target="#helping-middle-school-students">Helping Middle School Students</a></li>
+  <li><a href="#helping-high-school-students" id="toc-helping-high-school-students" class="nav-link" data-scroll-target="#helping-high-school-students">Helping High School Students</a></li>
   <li><a href="#key-responsibilities" id="toc-key-responsibilities" class="nav-link" data-scroll-target="#key-responsibilities">Key Responsibilities</a></li>
   </ul>
 </nav>
@@ -146,25 +186,47 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="what-is-the-computing-outreach-program" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-the-computing-outreach-program">What is the Computing Outreach Program?</h2>
-<p>Computing outreach involves engaging K-6 students in regular, hands-on computing activities to foster interest and competency in computational skills. This includes introducing students to computational thinking and problem-solving through events, workshops, and classroom activities, and using technologies. The goal is to provide consistent exposure in the computing field in a fun way.</p>
+<p>Computing outreach involves engaging K-12 students in regular, hands-on computing activities to foster interest and competency in computational skills. This includes introducing students to computational thinking and problem-solving through events, workshops, classroom activities, and using technologies. The goal is to provide consistent exposure to the computing field in a fun and engaging way.</p>
 </section>
 <section id="what-to-expect-as-a-computing-outreach-fellow" class="level2">
 <h2 class="anchored" data-anchor-id="what-to-expect-as-a-computing-outreach-fellow">What to Expect as a Computing Outreach Fellow</h2>
 <ul>
-<li>You will be tasked with activities that will vary depending on the grades you are working with</li>
-<li>All activities will be held in groups that can vary depending on the size of the class</li>
-<li>Working with younger students ranging from K to 2nd grade, will require to participate in activities that are more based in reading and explain methods of computational skills</li>
-<li>Older students from 5th to 6th grade will involve the use of more robotics in activities, requiring fellows to understand how the robots work and how they fit into the activities</li>
-<li>You will be given outlines that will guide you through the necessary steps to doing activities</li>
+<li>You will be tasked with activities that will vary depending on the grades you are working with.</li>
+<li>All activities will be held in groups that can vary depending on the size of the class.</li>
+<li>Working with younger students (K to 2nd grade) will involve activities that are more focused on reading and explaining methods of computational thinking.</li>
+<li>Older students (5th to 6th grade) will involve the use of robotics in activities, requiring fellows to understand how the robots work and how they fit into the activities.</li>
+<li>You will be given outlines that will guide you through the necessary steps for conducting activities.</li>
+</ul>
+</section>
+<section id="helping-middle-school-students" class="level2">
+<h2 class="anchored" data-anchor-id="helping-middle-school-students">Helping Middle School Students</h2>
+<p>Middle school students (grades 6-8) are at a critical stage where they can begin to explore more advanced computational concepts. As a fellow, you will:</p>
+<ul>
+<li>Introduce students to programming concepts using beginner-friendly languages like Python.</li>
+<li>Facilitate hands-on activities that involve building and programming robots or creating simple games.</li>
+<li>Encourage teamwork and collaboration through group projects that solve real-world problems using computational thinking.</li>
+<li>Provide guidance on how computing skills can be applied in various fields, such as science, art, and engineering.</li>
+</ul>
+</section>
+<section id="helping-high-school-students" class="level2">
+<h2 class="anchored" data-anchor-id="helping-high-school-students">Helping High School Students</h2>
+<p>High school students (grades 9-12) are ready to dive deeper into computing and explore career opportunities in the field. As a fellow, you will:</p>
+<ul>
+<li>Teach students more advanced programming concepts, such as algorithms, data structures, and web development.</li>
+<li>Guide students in creating their own projects, such as websites, apps, or robotics projects.</li>
+<li>Organize workshops to encourage creativity and problem-solving.</li>
+<li>Discuss career paths in computing, including software development, data science, cybersecurity, and artificial intelligence.</li>
+<li>Provide mentorship and resources for students interested in pursuing computing-related college programs or certifications.</li>
 </ul>
 </section>
 <section id="key-responsibilities" class="level2">
 <h2 class="anchored" data-anchor-id="key-responsibilities">Key Responsibilities</h2>
 <ul>
-<li>Working with children</li>
-<li>Collaborating with faculty at Meadville public schools</li>
-<li>Running through and understanding activities beforehand</li>
-<li>Reading books that improve students understanding of computational skills</li>
+<li>Working with children and teenagers across different age groups.</li>
+<li>Collaborating with faculty at Meadville public schools.</li>
+<li>Running through and understanding activities beforehand.</li>
+<li>Reading books and using resources that improve students’ understanding of computational skills.</li>
+<li>Adapting activities to suit the age group and skill level of the students.</li>
 </ul>
 
 
@@ -206,7 +268,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -238,47 +311,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -313,11 +346,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
+      return note.innerHTML;
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -595,7 +624,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="https://www.cis.allegheny.edu/"><img src="../images/footer_logo.png" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a></p>
+<p><a href="https://www.cis.allegheny.edu/"><img src="../images/footer_logo.svg" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

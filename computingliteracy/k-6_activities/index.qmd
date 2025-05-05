@@ -1,0 +1,18 @@
+---
+title: K-6 Activities
+page-layout: full
+toc: true
+listing:
+  page-size: 10
+  contents:
+    - "*activity/**/*.qmd"
+  sort:
+    - "title:asc"
+  type: default
+  sort-ui: true
+  filter-ui: true
+  categories: unnumbered
+  fields: [categories, title, subtitle, grades, time_required]
+---
+
+Welcome to the page where you can find all the activities that have already been implemented. Use the categories to find activities based on grade and time required.
