@@ -1,66 +1,64 @@
 ---
-title: "Activity 7: Pattern Recognition Activity - Pattern Detectives"
-subtitle: "Engaging students in identifying, analyzing, and creating simple patterns using shapes, colors, or numbers."
-grades: 1st Grade onwards
-time_required: "1 hour"
-categories: ["Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 1 Hour"]
+title: "Activity 9: Maze Navigation Activity"
+subtitle: "Introducing computational thinking through maze navigation and algorithmic planning."
+grades: Kindergarten and beyond (Adaptable Complexity)
+time_required: "30 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
 toc: true
 page-layout: full
 ---
 
-## Objectives
+## Description
 
-Children will identify, analyze, and create simple patterns using shapes, colors, or numbers.
+This activity introduces students to computational thinking by guiding a "robot" through a maze using basic commands. It helps students develop skills in problem-solving, pattern recognition, and algorithmic thinking.
 
-## Materials Needed
+## Materials Required
 
-- Paper and colored pencils/crayons
-- Pattern blocks or cut-out shapes
-- Optional: A whiteboard and markers
+- A printed or drawn maze on paper
+- A small car figure or token
+- A set of command cards (e.g., move forward, turn left, turn right)
 
-## Instructions
+## Activity Steps
 
-### Step 1: Introduction to Patterns
+### Introduction
 
-- Begin with a brief discussion about patterns, explaining that patterns are sequences that repeat in a certain order.
-- Show examples of simple patterns using shapes and colors:
-  - Shapes: `⬛⬛🔴⬛⬛🔴…` (Two squares, one circle, repeat)
-  - Colors: `🔵🟢🔵🟢🔵… `(Blue, green, repeat)
-  - Numbers: `1, 2, 1, 2, 1, 2…` (Alternating 1 and 2)
+- Explain the concept of computational thinking, which involves breaking down problems into manageable steps, recognizing patterns, and creating algorithms to solve problems.
+- Introduce the maze activity and its goal: to navigate the robot from the start to the finish.
 
-### Step 2: Identify the Pattern
+### Step 1: Setting Up
 
-- Provide students with sets of simple sequences and ask them to identify the pattern. Examples:
-  - Shapes: `🔺🔺⚫️🔺🔺⚫️…`
-  - Colors: `🟡🟡🟠🟡🟡🟠…`
-  - Numbers: `3, 3, 6, 3, 3, 6…`
+- Provide each student or group with a maze, a robot token, and command cards.
+- Clearly show the starting position and the goal on the maze.
 
-### Step 3: Extend the Pattern
+### Step 2: Planning the Route
 
-- Once students identify the pattern, challenge them to continue the sequence by adding the next few elements.
-  - Example: Sequence: `🔵🔵🟢🔵🔵🟢…` (They add 🔵🔵🟢 next)
+- Ask students to analyze the maze and plan a route for the robot.
+- Encourage them to use the command cards to create a sequence of instructions that will guide the robot through the maze.
+- Have students lay out the sequence of commands in order.
 
-### Step 4: Create Your Own Pattern
+### Step 3: Executing the Plan
 
-- Instruct students to create their own simple patterns using shapes, colors, or numbers on paper.
-- Encourage them to share their patterns with a partner and see if their partner can identify and extend the pattern.
+- Students place their robot token at the starting position.
+- They follow their planned sequence of commands to navigate the robot through the maze.
+- If the robot encounters an obstacle or reaches a dead end, students should revise their plan and try again.
 
-### Step 5: Pattern Puzzles
+### Extension: Blockly Maze Game
 
-- Create "pattern puzzles" where some elements in the sequence are missing, and ask students to fill in the blanks.
-  - Example: Sequence: `🟣, 🟣, 🟤, ___, 🟣, 🟣, 🟤, ___`(They fill in with `🟣, 🟣, 🟤`)
-
-### Extensions
-
-- For students who complete the exercises, introduce them to the coding challenge on [Blockly Turtle](https://blockly.games/turtle?lang=en). This program prompts students to code shapes.
+- Once students successfully complete the maze activity, they can advance to a more challenging and interactive coding game using an iPad, such as the [Blockly Maze Game](https://blockly.games/maze?lang=en).
 
 ## Reflection
 
-- Have students display their patterns and share them with the class to foster pride in their work and appreciation for the diversity of patterns created.
-- After completing the Blockly Turtle challenge, discuss with students the challenges they faced and how they solved coding problems.
+- After completing the maze activity, gather students into a group and discuss:
+  - What challenges did you face?
+  - How did you solve any problems that arose?
+  - What strategies helped you find the correct path?
+  - Discuss how this activity relates to real-world computational thinking and problem-solving.
 
 ## Learning Outcomes
 
-- Students will develop the ability to recognize and extend patterns.
-- Students will enhance critical thinking and problem-solving skills.
-- Students will learn to create their own patterns and communicate them effectively.
+- Develop computational thinking skills through planning and executing a sequence of steps.
+- Enhance problem-solving abilities by identifying patterns and applying appropriate strategies.
+
+### Picture of the Map
+
+![Map Picture](/images/09activity.png)
