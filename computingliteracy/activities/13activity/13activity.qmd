@@ -1,5 +1,5 @@
 ---
-title: "Activity 20: Conditional Color Coding with Blue-Bots"
+title: "Activity 13: Conditional Color Coding"
 subtitle: "Complete the Blue-Bot maps but make sure to follow the color code."
 grades: 2nd, 3rd
 time_required: "30 minutes"
