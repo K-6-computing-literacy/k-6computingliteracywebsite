@@ -20,7 +20,7 @@ Using the IPAD apps, students will control their bot to traverse the different m
 
 ## Materials Required
 
-- Robot (Bee Bot, Blue Bot, or Dash)
+- Programmable & Drivable Robot
 - IPAD
 - Item Cards
 - Map (optional)
@@ -48,7 +48,6 @@ Using the IPAD apps, students will control their bot to traverse the different m
 - Use simple commands (forward, backward, turns) as well as loop and conditional blocks.
 - 🔍 *Focus Skills*: Creativity, problem-solving, conditional logic
 
-
 ## Discussion & Reflection
 
 After the activity has been completed, gather the class for a quick debrief. We can ask:
@@ -61,3 +60,13 @@ After the activity has been completed, gather the class for a quick debrief. We 
 ## Wrap-Up
 
 Participating in this activity will enhance students' computational thinking. Block coding with the robot helps students understand basic coding principles and improves their programming skills. Encouraging students to create and solve obstacles in block coding will significantly boost their coding proficiency.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand basic coding principles.
+- Use conditional statements to create decision-making processes in block coding.
+- Simulate real-life problem-solving by programming a robot to navigate alternate routes when the primary path is blocked.
+- Enhance their computational thinking skills by breaking down a problem into smaller, manageable conditions and actions.
+- Test their block code in a practical setup and debug any issues that arise to ensure the robot navigates correctly.
