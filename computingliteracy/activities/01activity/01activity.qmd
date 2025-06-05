@@ -39,14 +39,14 @@ In this activity, students will learn the fundamentals of `if-else-if else (elif
 
 ### Dificulty Breakdown
 
-**Beginner**
+#### Beginner
 - Use simple examples to illustrate the concept of if-else statements, such as deciding whether to bring an umbrella based on whether it is raining.
 - Model an example barricade situation using the model car and map.
 - Use a guided road setup for the robot to use.
 - Limit the number of barricades on the map to 1. 
 - 🔍 *Focus Skills*: real-life simulation, block coding basics, problem-solving
 
-**Intermediate**
+#### Intermediate
 - Use simple examples to illustrate the concept of if-else statements, such as deciding whether to bring an umbrella based on whether it is raining.
 - Model an example barricade situation using the model car and map.
 - Use a guided road setup for the robot to use.

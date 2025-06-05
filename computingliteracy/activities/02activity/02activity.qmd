@@ -33,7 +33,7 @@ The activity is designed with increasing difficulty based on previous coding exp
 
 ### Difficulty Breakdown
 
-**Group Introduction**
+#### Group Introduction
 - Arrange the balloons in a line. You can use string or tape to ensure they stay in place.
 - Prepare several different sequences for demonstration and practice (e.g., `000`, `010`, `011`, `100`, `110`, `111`).
 - Explain to the students that each balloon represents a binary digit (bit), and the position of the balloon determines its value in the binary number system.
@@ -41,13 +41,13 @@ The activity is designed with increasing difficulty based on previous coding exp
 - Explain the formula for decoding binary into decimal numbers.
 - Provide examples of how binary is used in real life.
 
-**Beginner**
+#### Beginner
 - Break the students down into small groups.
 - Each group should recieve a reference sheet, some balloons, and materials for caluclations.
 - Have the students take turns mixing the balloons and decoding their decimal counterart.
 - 🔍 *Focus Skills*: computational thinking, problem-solving
 
-**Intermediate**
+#### Intermediate
 - Break the students down into small groups.
 - Each group should recieve a reference sheet, some balloons, and materials for caluclations.
 - Have the students take turns mixing the balloons and decoding their decimal counterart. 

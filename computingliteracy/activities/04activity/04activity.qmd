@@ -36,13 +36,13 @@ Using the IPAD apps, students will control their bot to traverse the different m
 
 ### Dificulty Breakdown
 
-**Beginner**
+#### Beginner
 - Use a guided path for the robot. These paths should have a specific rule, such as no right turns allowed.
 - Limit the number of obstacles on the map to 1-3.
 - Focus on simple routes using the forward, backward, and turn commands.
 - 🔍 *Focus Skills*: Object interaction, movement basics, problem-solving
 
-**Intermediate**
+#### Intermediate
 - Students design the path the robot will follow. These paths should have a specific rule, such as no right turns allowed.
 - Increase the number of obstacles on the map to 3-5.
 - Use simple commands (forward, backward, turns) as well as loop and conditional blocks.

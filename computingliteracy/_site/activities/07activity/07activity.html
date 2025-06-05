@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Activity 7: Pattern Recognition Activity - Pattern Detectives – Code with Chompers</title>
+<title>Activity 7: Maze Navigation Activity – Code with Chompers</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -116,19 +116,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#objectives" id="toc-objectives" class="nav-link active" data-scroll-target="#objectives">Objectives</a></li>
-  <li><a href="#materials-needed" id="toc-materials-needed" class="nav-link" data-scroll-target="#materials-needed">Materials Needed</a></li>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a>
+  <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
+  <li><a href="#materials-required" id="toc-materials-required" class="nav-link" data-scroll-target="#materials-required">Materials Required</a></li>
+  <li><a href="#activity-steps" id="toc-activity-steps" class="nav-link" data-scroll-target="#activity-steps">Activity Steps</a>
   <ul class="collapse">
-  <li><a href="#step-1-introduction-to-patterns" id="toc-step-1-introduction-to-patterns" class="nav-link" data-scroll-target="#step-1-introduction-to-patterns">Step 1: Introduction to Patterns</a></li>
-  <li><a href="#step-2-identify-the-pattern" id="toc-step-2-identify-the-pattern" class="nav-link" data-scroll-target="#step-2-identify-the-pattern">Step 2: Identify the Pattern</a></li>
-  <li><a href="#step-3-extend-the-pattern" id="toc-step-3-extend-the-pattern" class="nav-link" data-scroll-target="#step-3-extend-the-pattern">Step 3: Extend the Pattern</a></li>
-  <li><a href="#step-4-create-your-own-pattern" id="toc-step-4-create-your-own-pattern" class="nav-link" data-scroll-target="#step-4-create-your-own-pattern">Step 4: Create Your Own Pattern</a></li>
-  <li><a href="#step-5-pattern-puzzles" id="toc-step-5-pattern-puzzles" class="nav-link" data-scroll-target="#step-5-pattern-puzzles">Step 5: Pattern Puzzles</a></li>
-  <li><a href="#extensions" id="toc-extensions" class="nav-link" data-scroll-target="#extensions">Extensions</a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#step-1-setting-up" id="toc-step-1-setting-up" class="nav-link" data-scroll-target="#step-1-setting-up">Step 1: Setting Up</a></li>
+  <li><a href="#step-2-planning-the-route" id="toc-step-2-planning-the-route" class="nav-link" data-scroll-target="#step-2-planning-the-route">Step 2: Planning the Route</a></li>
+  <li><a href="#step-3-executing-the-plan" id="toc-step-3-executing-the-plan" class="nav-link" data-scroll-target="#step-3-executing-the-plan">Step 3: Executing the Plan</a></li>
+  <li><a href="#extension-blockly-maze-game" id="toc-extension-blockly-maze-game" class="nav-link" data-scroll-target="#extension-blockly-maze-game">Extension: Blockly Maze Game</a></li>
   </ul></li>
   <li><a href="#reflection" id="toc-reflection" class="nav-link" data-scroll-target="#reflection">Reflection</a></li>
-  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a></li>
+  <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a>
+  <ul class="collapse">
+  <li><a href="#picture-of-the-map" id="toc-picture-of-the-map" class="nav-link" data-scroll-target="#picture-of-the-map">Picture of the Map</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -137,16 +139,17 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Activity 7: Pattern Recognition Activity - Pattern Detectives</h1>
-<p class="subtitle lead">Engaging students in identifying, analyzing, and creating simple patterns using shapes, colors, or numbers.</p>
+<h1 class="title">Activity 7: Maze Navigation Activity</h1>
+<p class="subtitle lead">Introducing computational thinking through maze navigation and algorithmic planning.</p>
   <div class="quarto-categories">
+    <div class="quarto-category">Grade: Kindergarten</div>
     <div class="quarto-category">Grade: 1</div>
     <div class="quarto-category">Grade: 2</div>
     <div class="quarto-category">Grade: 3</div>
     <div class="quarto-category">Grade: 4</div>
     <div class="quarto-category">Grade: 5</div>
     <div class="quarto-category">Grade: 6</div>
-    <div class="quarto-category">Time: 1 Hour</div>
+    <div class="quarto-category">Time: 30 Minutes</div>
   </div>
   </div>
 
@@ -164,91 +167,86 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="objectives" class="level2">
-<h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<p>Children will identify, analyze, and create simple patterns using shapes, colors, or numbers.</p>
+<section id="description" class="level2">
+<h2 class="anchored" data-anchor-id="description">Description</h2>
+<p>This activity introduces students to computational thinking by guiding a “robot” through a maze using basic commands. It helps students develop skills in problem-solving, pattern recognition, and algorithmic thinking.</p>
 </section>
-<section id="materials-needed" class="level2">
-<h2 class="anchored" data-anchor-id="materials-needed">Materials Needed</h2>
+<section id="materials-required" class="level2">
+<h2 class="anchored" data-anchor-id="materials-required">Materials Required</h2>
 <ul>
-<li>Paper and colored pencils/crayons</li>
-<li>Pattern blocks or cut-out shapes</li>
-<li>Optional: A whiteboard and markers</li>
+<li>A printed or drawn maze on paper</li>
+<li>A small car figure or token</li>
+<li>A set of command cards (e.g., move forward, turn left, turn right)</li>
 </ul>
 </section>
-<section id="instructions" class="level2">
-<h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<section id="step-1-introduction-to-patterns" class="level3">
-<h3 class="anchored" data-anchor-id="step-1-introduction-to-patterns">Step 1: Introduction to Patterns</h3>
+<section id="activity-steps" class="level2">
+<h2 class="anchored" data-anchor-id="activity-steps">Activity Steps</h2>
+<section id="introduction" class="level3">
+<h3 class="anchored" data-anchor-id="introduction">Introduction</h3>
 <ul>
-<li>Begin with a brief discussion about patterns, explaining that patterns are sequences that repeat in a certain order.</li>
-<li>Show examples of simple patterns using shapes and colors:
-<ul>
-<li>Shapes: <code>⬛⬛🔴⬛⬛🔴…</code> (Two squares, one circle, repeat)</li>
-<li>Colors: <code>🔵🟢🔵🟢🔵…</code>(Blue, green, repeat)</li>
-<li>Numbers: <code>1, 2, 1, 2, 1, 2…</code> (Alternating 1 and 2)</li>
-</ul></li>
+<li>Explain the concept of computational thinking, which involves breaking down problems into manageable steps, recognizing patterns, and creating algorithms to solve problems.</li>
+<li>Introduce the maze activity and its goal: to navigate the robot from the start to the finish.</li>
 </ul>
 </section>
-<section id="step-2-identify-the-pattern" class="level3">
-<h3 class="anchored" data-anchor-id="step-2-identify-the-pattern">Step 2: Identify the Pattern</h3>
+<section id="step-1-setting-up" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-setting-up">Step 1: Setting Up</h3>
 <ul>
-<li>Provide students with sets of simple sequences and ask them to identify the pattern. Examples:
-<ul>
-<li>Shapes: <code>🔺🔺⚫️🔺🔺⚫️…</code></li>
-<li>Colors: <code>🟡🟡🟠🟡🟡🟠…</code></li>
-<li>Numbers: <code>3, 3, 6, 3, 3, 6…</code></li>
-</ul></li>
+<li>Provide each student or group with a maze, a robot token, and command cards.</li>
+<li>Clearly show the starting position and the goal on the maze.</li>
 </ul>
 </section>
-<section id="step-3-extend-the-pattern" class="level3">
-<h3 class="anchored" data-anchor-id="step-3-extend-the-pattern">Step 3: Extend the Pattern</h3>
+<section id="step-2-planning-the-route" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-planning-the-route">Step 2: Planning the Route</h3>
 <ul>
-<li>Once students identify the pattern, challenge them to continue the sequence by adding the next few elements.
-<ul>
-<li>Example: Sequence: <code>🔵🔵🟢🔵🔵🟢…</code> (They add 🔵🔵🟢 next)</li>
-</ul></li>
+<li>Ask students to analyze the maze and plan a route for the robot.</li>
+<li>Encourage them to use the command cards to create a sequence of instructions that will guide the robot through the maze.</li>
+<li>Have students lay out the sequence of commands in order.</li>
 </ul>
 </section>
-<section id="step-4-create-your-own-pattern" class="level3">
-<h3 class="anchored" data-anchor-id="step-4-create-your-own-pattern">Step 4: Create Your Own Pattern</h3>
+<section id="step-3-executing-the-plan" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-executing-the-plan">Step 3: Executing the Plan</h3>
 <ul>
-<li>Instruct students to create their own simple patterns using shapes, colors, or numbers on paper.</li>
-<li>Encourage them to share their patterns with a partner and see if their partner can identify and extend the pattern.</li>
+<li>Students place their robot token at the starting position.</li>
+<li>They follow their planned sequence of commands to navigate the robot through the maze.</li>
+<li>If the robot encounters an obstacle or reaches a dead end, students should revise their plan and try again.</li>
 </ul>
 </section>
-<section id="step-5-pattern-puzzles" class="level3">
-<h3 class="anchored" data-anchor-id="step-5-pattern-puzzles">Step 5: Pattern Puzzles</h3>
+<section id="extension-blockly-maze-game" class="level3">
+<h3 class="anchored" data-anchor-id="extension-blockly-maze-game">Extension: Blockly Maze Game</h3>
 <ul>
-<li>Create “pattern puzzles” where some elements in the sequence are missing, and ask students to fill in the blanks.
-<ul>
-<li>Example: Sequence: <code>🟣, 🟣, 🟤, ___, 🟣, 🟣, 🟤, ___</code>(They fill in with <code>🟣, 🟣, 🟤</code>)</li>
-</ul></li>
-</ul>
-</section>
-<section id="extensions" class="level3">
-<h3 class="anchored" data-anchor-id="extensions">Extensions</h3>
-<ul>
-<li>For students who complete the exercises, introduce them to the coding challenge on <a href="https://blockly.games/turtle?lang=en">Blockly Turtle</a>. This program prompts students to code shapes.</li>
+<li>Once students successfully complete the maze activity, they can advance to a more challenging and interactive coding game using an iPad, such as the <a href="https://blockly.games/maze?lang=en">Blockly Maze Game</a>.</li>
 </ul>
 </section>
 </section>
 <section id="reflection" class="level2">
 <h2 class="anchored" data-anchor-id="reflection">Reflection</h2>
 <ul>
-<li>Have students display their patterns and share them with the class to foster pride in their work and appreciation for the diversity of patterns created.</li>
-<li>After completing the Blockly Turtle challenge, discuss with students the challenges they faced and how they solved coding problems.</li>
+<li>After completing the maze activity, gather students into a group and discuss:
+<ul>
+<li>What challenges did you face?</li>
+<li>How did you solve any problems that arose?</li>
+<li>What strategies helped you find the correct path?</li>
+<li>Discuss how this activity relates to real-world computational thinking and problem-solving.</li>
+</ul></li>
 </ul>
 </section>
 <section id="learning-outcomes" class="level2">
 <h2 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h2>
 <ul>
-<li>Students will develop the ability to recognize and extend patterns.</li>
-<li>Students will enhance critical thinking and problem-solving skills.</li>
-<li>Students will learn to create their own patterns and communicate them effectively.</li>
+<li>Develop computational thinking skills through planning and executing a sequence of steps.</li>
+<li>Enhance problem-solving abilities by identifying patterns and applying appropriate strategies.</li>
 </ul>
+<section id="picture-of-the-map" class="level3">
+<h3 class="anchored" data-anchor-id="picture-of-the-map">Picture of the Map</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../..\images/09activity.png" class="img-fluid figure-img"></p>
+<figcaption>Map Picture</figcaption>
+</figure>
+</div>
 
 
+</section>
 </section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
