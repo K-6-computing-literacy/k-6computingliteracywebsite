@@ -2,8 +2,8 @@
 title: "Activity 4: Block Code And Map Routes"
 subtitle: "Enhancing computational thinking through the creation of obstacles and routes through block coding and conditional statements."
 grades: Kindergarten - 6th Grade
-time_required: "Varies by grade"
-categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: Varies"]
+time_required: "30 Minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
 toc: true
 page-layout: full
 ---
@@ -32,7 +32,7 @@ Using the IPAD apps, students will control their bot to traverse the different m
 - Split students into groups of two. Have them spread out throughout the room, ensuring each group has room to run the activity.  
 - Each group should recieve one robot, one IPAD, one set of item cards, and one map, if being used.
 - Have the students put the item cards on various spots on the map. These will be their route obstacles.
-- Depending on the grade, students can work with pre-made or self-designed paths.
+- Depending on the previous coding experience, students can work with pre-made or self-designed paths.
 
 ### Dificulty Breakdown
 
