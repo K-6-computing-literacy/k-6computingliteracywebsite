@@ -1138,14 +1138,14 @@
     "href": "activities/13activity/13activity.html",
     "title": "Activity 13: Conditional Color Coding",
     "section": "",
-    "text": "In this activity, students will use Blue-Bots to navigate maps filled with conditional statements that require them to adhere to specific constraints. Each student will receive a color-coded reference sheet outlining the conditions that must be followed when standing on a particular color. As students progress through the obstacles, they will gradually encounter more complex challenges incorporating additional conditional statements. This structured approach fosters critical thinking and problem-solving skills while enhancing their understanding of conditional logic in programming."
+    "text": "In this activity, students will use robots to navigate maps filled with conditional statements that require them to adhere to specific constraints. Each student will receive a color-coded reference sheet outlining the conditions that must be followed when standing on a particular color. As students progress through the obstacles, they will gradually encounter more complex challenges incorporating additional conditional statements. This structured approach fosters critical thinking and problem-solving skills while enhancing their understanding of conditional logic in programming."
   },
   {
     "objectID": "activities/13activity/13activity.html#description",
     "href": "activities/13activity/13activity.html#description",
     "title": "Activity 13: Conditional Color Coding",
     "section": "",
-    "text": "In this activity, students will use Blue-Bots to navigate maps filled with conditional statements that require them to adhere to specific constraints. Each student will receive a color-coded reference sheet outlining the conditions that must be followed when standing on a particular color. As students progress through the obstacles, they will gradually encounter more complex challenges incorporating additional conditional statements. This structured approach fosters critical thinking and problem-solving skills while enhancing their understanding of conditional logic in programming."
+    "text": "In this activity, students will use robots to navigate maps filled with conditional statements that require them to adhere to specific constraints. Each student will receive a color-coded reference sheet outlining the conditions that must be followed when standing on a particular color. As students progress through the obstacles, they will gradually encounter more complex challenges incorporating additional conditional statements. This structured approach fosters critical thinking and problem-solving skills while enhancing their understanding of conditional logic in programming."
   },
   {
     "objectID": "activities/13activity/13activity.html#time-required",
@@ -1159,7 +1159,7 @@
     "href": "activities/13activity/13activity.html#materials-required",
     "title": "Activity 13: Conditional Color Coding",
     "section": "Materials Required",
-    "text": "Materials Required\n\nBlue-Bots\nBlue-Bot App: Blue’s Bloc (IPAD)\nBlue-Bots Map\nConditional Color Sheet () Condtional Color Sheet\nColored Flashcards\n\n\nStep 1: Setting Up a Conditional Map\n\nEach map should have at least two students, with each assigned three columns for their obstacle course. A fifth colored flashcard should mark the end goal in the top row.\nEnsure there is one Blue-Bot for every three columns. If there are more students than available maps or Blue-Bots, pairing them is the best option.\n\nWhen pairing students, ensure they take equal turns using the device.\n\nDesign the course using flashcards so that students encounter at least five conditions regardless of their chosen path to the goal.\n\n\n\nStep 2: Explaining the Conditional Sheet\n\nStudents should be familiar with the Blue-Bots application, which uses code blocks to control movement. If unfamiliar, they may complete up to four condition-free obstacles before progressing.\nIntroduce the color-coded sheet, which specifies conditions requiring either the use or restriction of certain code blocks.\nSince some conditions involve turning at specific angles, ensure students understand the difference between 45-degree and 90-degree turns.\nClearly state each color used and the required action when landing on it.\n\n\n\nStep 3: Completing the Map\n\nEncourage students to complete the course independently and assist those who are confused or struggling with the task.\nIf students are hesitant to help, involve a nearby teacher to better manage the situation.\nOnce a student achieves their goal, have them reposition the marked goal within the top row of their three columns.\nAfter meeting their marked goals twice, allow them to modify the flashcards and provide guidance if their courses are not conditionally possible.\nOnce modifying their courses, ask them to keep track of how many times they meet their goal."
+    "text": "Materials Required\n\nProgramable and driveable robot\nIPAD\nMap (an example is shown below)\nCondtional Color Sheet\nColored Flashcards"
   },
   {
     "objectID": "activities/13activity/13activity.html#reflection",
@@ -1494,8 +1494,8 @@
     "objectID": "activities/12activity/12activity.html#steps-to-conduct-the-activity",
     "href": "activities/12activity/12activity.html#steps-to-conduct-the-activity",
     "title": "Activity 12: Facts and Questions",
-    "section": "Steps to conduct the activity",
-    "text": "Steps to conduct the activity\n\nStudents will first complete the prompt enginnering sheet\nDirect the students to create 2 facts based on one a topic of thier choosing, then prompt then to create two question for each fact one being vauge the other being specific\nPair students in groups of two to switch sheets to ideinfity which question are vauge and specific.\nKeep switching groups until students have rotated at least three times."
+    "section": "Steps to Conduct the Activity",
+    "text": "Steps to Conduct the Activity\n\nSet-Up\n\nPass out the engineering sheet.\n\n\n\nInstructions\n\nStudents should first complete the prompt enginnering sheet.\nDirect the students to create 2 facts based on one a topic of their choosing, then prompt then to create two question for each fact one being vauge the other being specific.\nPair students in groups of two to switch sheets to ideinfity which question are vauge and specific.\nKeep switching groups until students have rotated at least three times."
   },
   {
     "objectID": "activities/12activity/12activity.html#reflection",
@@ -1509,7 +1509,7 @@
     "href": "activities/12activity/12activity.html#learning-outcomes",
     "title": "Activity 12: Facts and Questions",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nAs advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Introducing students to these concepts at an early age will enhance their understanding of how prompt engineering works and how it connects to their existing curriculum, fostering essential skills for the future of technology and innovation. Requiring students to formulate more specific and detailed questions will enhance their ability to identify and construct clear, precise prompts, an essential skill in prompt engineering. This practice not only deepens their understanding of the subject matter but also strengthens their critical thinking and problem-solving abilities, which are vital for success in the evolving field of AI and technology."
+    "text": "Learning Outcomes\nBy the end of this activity, students should be able to:\n\nCreate detailed questions or prompts.\nReview the questions or prompts given by their peers to determine whether or not they are vague or specific."
   },
   {
     "objectID": "activities/14activity/14activity.html#time-required",
@@ -1818,5 +1818,61 @@
     "title": "Activity 11: Protect Your Password",
     "section": "Wrap-Up",
     "text": "Wrap-Up\nThis activity aims to enhance students’ understanding of internet safety by actively engaging them in identifying safe and unsafe passwords. By allowing students to make and guess each others’ passwords, students apply their knowledge in a practical and interactive manner, reinforcing internet safety practices."
+  },
+  {
+    "objectID": "activities/12activity/12activity.html#time-required",
+    "href": "activities/12activity/12activity.html#time-required",
+    "title": "Activity 12: Facts and Questions",
+    "section": "Time Required",
+    "text": "Time Required\n\nEstimated Time: 1 Hour"
+  },
+  {
+    "objectID": "activities/12activity/12activity.html#discussion-reflection",
+    "href": "activities/12activity/12activity.html#discussion-reflection",
+    "title": "Activity 12: Facts and Questions",
+    "section": "Discussion & Reflection",
+    "text": "Discussion & Reflection\nAfter the activity has been completed, gather the class for a quick debrief. We can ask:\n\nWhat part of the acitivty was the hardest?\nDid you find identifying question or creating them to be harder?"
+  },
+  {
+    "objectID": "activities/12activity/12activity.html#wrap-up",
+    "href": "activities/12activity/12activity.html#wrap-up",
+    "title": "Activity 12: Facts and Questions",
+    "section": "Wrap-Up",
+    "text": "Wrap-Up\nAs advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Introducing students to these concepts at an early age will enhance their understanding of how prompt engineering works and how it connects to their existing curriculum, fostering essential skills for the future of technology and innovation. Requiring students to formulate more specific and detailed questions will enhance their ability to identify and construct clear, precise prompts, an essential skill in prompt engineering. This practice not only deepens their understanding of the subject matter but also strengthens their critical thinking and problem-solving abilities, which are vital for success in the evolving field of AI and technology."
+  },
+  {
+    "objectID": "activities/13activity/13activity.html#picture-of-the-map",
+    "href": "activities/13activity/13activity.html#picture-of-the-map",
+    "title": "Activity 13: Conditional Color Coding",
+    "section": "Picture of the Map",
+    "text": "Picture of the Map\n\n\n\nMap Picture"
+  },
+  {
+    "objectID": "activities/13activity/13activity.html#steps-to-conduct-the-activity",
+    "href": "activities/13activity/13activity.html#steps-to-conduct-the-activity",
+    "title": "Activity 13: Conditional Color Coding",
+    "section": "Steps to Conduct the Activity",
+    "text": "Steps to Conduct the Activity\n\nSet-Up\n\nEach map should have at least two students, with each assigned three columns for their obstacle course. A fifth colored flashcard should mark the end goal in the top row.\nEnsure there is one robot for every three columns. If there are more students than available maps or robots, pairing them is the best option.\n\nWhen pairing students, ensure they take equal turns using the device.\n\nDesign the course using flashcards so that students encounter at least five conditions regardless of their chosen path to the goal.\n\n\n\nDifficulty Breakdown\n\nIntroduction\n\nIntroduce the color-coded sheet, which specifies conditions requiring either the use or restriction of certain code blocks.\nSince some conditions involve turning at specific angles, ensure students understand the difference between 45-degree and 90-degree turns.\nClearly state each color used and the required action when landing on it.\n\n\n\nBeginner\n\nEncourage students to complete the course independently and assist those who are confused or struggling with the task.\nIf students are hesitant to help, involve a nearby teacher to better manage the situation.\nOnce a student achieves their goal, have them reposition the marked goal within the top row of their three columns.\n🔍 Focus Skills: Object interaction, movement basics, problem-solving\n\n\n\nIntermediate\n\nEncourage students to complete the course independently and assist those who are confused or struggling with the task.\nIf students are hesitant to help, involve a nearby teacher to better manage the situation.\nOnce a student achieves their goal, have them reposition the marked goal within the top row of their three columns.\nAfter meeting their marked goals twice, allow them to modify the flashcards and provide guidance if their courses are not conditionally possible.\nOnce modifying their courses, ask them to keep track of how many times they meet their goal.\n🔍 Focus Skills: Creativity, problem-solving, conditional logic"
+  },
+  {
+    "objectID": "activities/13activity/13activity.html#discussion-reflection",
+    "href": "activities/13activity/13activity.html#discussion-reflection",
+    "title": "Activity 13: Conditional Color Coding",
+    "section": "Discussion & Reflection",
+    "text": "Discussion & Reflection\nAfter the activity has been completed, gather the class for a quick debrief. We can ask:\n\nWhich conditional color did you have the hardest time passing and why?\nWere there any colors you found too easy to pass by?\nHow many times were you able to finish your obstacle courses?\nAdditionally, for those who kept count, how many times were you able to complete your obstacles?"
+  },
+  {
+    "objectID": "activities/13activity/13activity.html#wrap-up",
+    "href": "activities/13activity/13activity.html#wrap-up",
+    "title": "Activity 13: Conditional Color Coding",
+    "section": "Wrap-Up",
+    "text": "Wrap-Up\nBy programming robots to navigate maps with specific constraints, students develop an understanding of how conditions affect movement and decision-making. The activity reinforces computational thinking, logical reasoning, and teamwork while encouraging students to experiment with different coding sequences."
+  },
+  {
+    "objectID": "activities/13activity/13activity.html#learning-outcomes",
+    "href": "activities/13activity/13activity.html#learning-outcomes",
+    "title": "Activity 13: Conditional Color Coding",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this activity, students should be able to:\n\nUnderstand basic coding principles.\nUse conditional statements to create decision-making processes in block coding.\nEnhance their computational thinking skills by breaking down a problem into smaller, manageable conditions and actions.\nTest their block code in a practical setup and debug any issues that arise to ensure the robot navigates correctly."
   }
 ]
