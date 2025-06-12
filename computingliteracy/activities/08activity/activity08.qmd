@@ -1,6 +1,6 @@
 ---
 title: "Activity 8: Internet Safety Routes"
-subtitle: "Teaching internet safety through identifying safe and unsafe actions online using Spheros."
+subtitle: "Teaching internet safety through identifying safe and unsafe actions online using robots."
 grades: 1st grade onwards
 time_required: "30 Minutes"
 categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
