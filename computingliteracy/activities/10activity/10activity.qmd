@@ -27,15 +27,17 @@ In this activity, students will engage in an activity designed to introduce them
 
 ## Steps to Conduct the Activity
 
-### Introduction
+### Difficulty Breakdown
+
+#### Introduction
 - Acssess insturction in order to run activity.
 
-### Beginner
+#### Beginner
 
 - Follow the instructions through to the end of the single LED circuits.
 - 🔍 *Focus Skills*: creativity, problem-solving, electrical component relationships
 
-### Intermediate
+#### Intermediate
 
 - Follow the instructions through to the end of the single LED circuits.
 - For increasing difficulty, continue the activity through the multiple LED circuits.

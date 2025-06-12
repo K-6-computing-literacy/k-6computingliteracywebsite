@@ -25,14 +25,16 @@ In this activity, students will practice internet safety by identifying safe and
 
 ## Steps to Conduct the Activity
 
-### Introduction
+### Difficulty Breakdown
+
+#### Introduction
 
 - Discuss with students about their experiences using the internet and activities they have done online.
 - Explain the importance of learning safe practices for internet use.
 - Play the Twinkl video on internet safety: [Twinkl Internet Safety Video](https://www.youtube.com/watch?v=JTl211YlFzc).
 - After watching, ask students what they learned from the video.
 
-### Beginner
+#### Beginner
 - Divide students into two groups and provide them with flashcards containing safe and unsafe terms/actions.
 - Instruct students to sort the flashcards into safe and unsafe categories. Review the sorted flashcards to ensure understanding before proceeding.
 - Using wooden blocks as barriors, have students create a route that their robot can navigate through.
@@ -40,7 +42,7 @@ In this activity, students will practice internet safety by identifying safe and
 - Encourage students to create new routes for their robot after completing the initial one.
 - 🔍 *Focus Skills*: internet safety, unsafe activity recognition
 
-### Intermediate
+#### Intermediate
 - Divide students into two groups and provide them with flashcards containing safe and unsafe terms/actions.
 - Instruct students to sort the flashcards into safe and unsafe categories. Review the sorted flashcards to ensure understanding before proceeding.
 - Using wooden blocks and the sorted flashcards, have students create two routes: one for safe terms/actions and one for unsafe terms/actions that their robot can navigate through.
