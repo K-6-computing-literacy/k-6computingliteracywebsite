@@ -1215,28 +1215,28 @@
     "href": "activities/09activity/activity09.html",
     "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
     "section": "",
-    "text": "Students will use the Code.org platform to play the Minecraft block coding game. This activity introduces various uses of block coding, making it easier for students to grasp coding concepts through interactive gameplay."
+    "text": "Students will use the Code.org platform to play with either the Minecraft or Frozen games. Through this activity, they will utilize block-based coding to deepen their comprehension of fundamental programming concepts. As they progress through the game, students will learn how to construct sequences, loops, and conditional statements, and observe how these elements interact to produce the desired outcomes. This hands-on experience aims to enhance their understanding of how coding works in a fun and educational environment, fostering their problem-solving skills and creativity"
   },
   {
     "objectID": "activities/09activity/activity09.html#description",
     "href": "activities/09activity/activity09.html#description",
     "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
     "section": "",
-    "text": "Students will use the Code.org platform to play the Minecraft block coding game. This activity introduces various uses of block coding, making it easier for students to grasp coding concepts through interactive gameplay."
+    "text": "Students will use the Code.org platform to play with either the Minecraft or Frozen games. Through this activity, they will utilize block-based coding to deepen their comprehension of fundamental programming concepts. As they progress through the game, students will learn how to construct sequences, loops, and conditional statements, and observe how these elements interact to produce the desired outcomes. This hands-on experience aims to enhance their understanding of how coding works in a fun and educational environment, fostering their problem-solving skills and creativity"
   },
   {
     "objectID": "activities/09activity/activity09.html#materials-required",
     "href": "activities/09activity/activity09.html#materials-required",
     "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
     "section": "Materials Required",
-    "text": "Materials Required\n\niPad\nCode.org platform: Minecraft Designer"
+    "text": "Materials Required\n\nIPAD\nCode.org platform: Minecraft Designer\nCode.org platform: Code with Anna and Elsa"
   },
   {
     "objectID": "activities/09activity/activity09.html#steps-to-conduct-the-activity",
     "href": "activities/09activity/activity09.html#steps-to-conduct-the-activity",
     "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
     "section": "Steps to Conduct the Activity",
-    "text": "Steps to Conduct the Activity\n\nStep 1: Setup and Introduction\n\nOpen the Code.org platform on iPads.\nShow students the introductory video provided before starting the activity.\n\n\n\nStep 2: Engaging with Minecraft Blocks\n\nGuide students through the initial stages of the Minecraft block coding game.\nDisable subsequent instructional videos to encourage independent exploration."
+    "text": "Steps to Conduct the Activity\n\nSet-Up & Introduction\n\nOpen the Code.org platform on IPADs.\nHave students watch the introductory video provided before starting the activity.\nGuide students through the initial stages of their chosen block coding game.\nDisable subsequent instructional videos to encourage independent exploration (optional)."
   },
   {
     "objectID": "activities/09activity/activity09.html#reflection",
@@ -1250,7 +1250,7 @@
     "href": "activities/09activity/activity09.html#learning-outcomes",
     "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nThis activity demonstrates the foundational steps in creating video games using Minecraft block coding. It explores fundamental computer science concepts, such as the use of loops in game mechanics. Students will gain insights into coding’s role in everyday activities like gaming, fostering a deeper understanding of computational thinking."
+    "text": "Learning Outcomes\nBy the end of this activity, students should be able to:\n\nUnderstand basic coding principles.\nUse conditional statements to create decision-making processes in block coding.\nEnhance their computational thinking skills by breaking down a problem into smaller, manageable conditions and actions.\nTest their block code in a practical setup and debug any issues that arise."
   },
   {
     "objectID": "activities/07activity/07activity.html#description",
@@ -1692,5 +1692,26 @@
     "title": "Activity 8: Internet Safety Routes",
     "section": "Learning Outcomes",
     "text": "Learning Outcomes\nBy the end of this activity, students should be able to:\n\nUnderstand basic safety practices when using the internet or other online tools.\nReflect on their previous online usage to establish any necessary changes."
+  },
+  {
+    "objectID": "activities/09activity/activity09.html#time-required",
+    "href": "activities/09activity/activity09.html#time-required",
+    "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
+    "section": "Time Required",
+    "text": "Time Required\n\nEstimated Time: 30-45 minutes"
+  },
+  {
+    "objectID": "activities/09activity/activity09.html#discussion-reflection",
+    "href": "activities/09activity/activity09.html#discussion-reflection",
+    "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
+    "section": "Discussion & Reflection",
+    "text": "Discussion & Reflection\nAfter the students have worked for about a half hour, gather the class for a quick debrief. We can ask:\n\nWhat did you observed the Minecraft mobs or Frozen characters doing with the block codes?\nRelate the activity to game development, emphasizing how coding principles translate into interactive gameplay experiences."
+  },
+  {
+    "objectID": "activities/09activity/activity09.html#wrap-up",
+    "href": "activities/09activity/activity09.html#wrap-up",
+    "title": "Activity 9: Block Code With Code.Org (Minecraft and Frozen)",
+    "section": "Wrap-Up",
+    "text": "Wrap-Up\nBy introducing them to basic coding principles, students will develop a stronger grasp of programming, leading to improved comprehension when they encounter more complex coding tasks in the future. This early exposure aims to build their confidence and proficiency in understanding and applying code effectively."
   }
 ]
