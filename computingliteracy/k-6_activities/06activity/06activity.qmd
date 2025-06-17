@@ -1,0 +1,80 @@
+---
+title: "Activity 6: Pattern Recognition Activity - Pattern Detectives"
+subtitle: "Engaging students in identifying, analyzing, and creating simple patterns using shapes, colors, or numbers."
+grades: 1st Grade onwards
+time_required: "Varies by grade"
+categories: ["Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 1 Hour"]
+toc: true
+page-layout: full
+---
+
+## Description
+
+In this activity, students will identify, analyze, and create simple patterns using shapes, colors, or numbers. The activity is designed with increasing difficulty based on previous coding experience, allowing students to build their programming logic as they play.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Needed
+
+- Paper and colored pencils/crayons
+- Pattern Materials (blocks or cut-out shapes)
+
+##  Steps to Conduct the Activity
+
+### Set-Up
+
+- Split students into small roups. Have them spread out throughout the room, ensuring each group has enough room to run the activity.
+- Each group should recieve one paper, some colored pencils or crayons, and some pattern materials. 
+
+### Difficulty Breakdown
+
+#### Introduction
+- Begin with a brief discussion about patterns, explaining that patterns are sequences that repeat in a certain order.
+- Show examples of simple patterns using shapes, colors, and numbers:
+  - Shapes: `⬛⬛🔴⬛⬛🔴…` (Two squares, one circle, repeat)
+  - Colors: `🔵🟢🔵🟢🔵… `(Blue, green, repeat)
+  - Numbers: `1, 2, 1, 2, 1, 2…` (Alternating 1 and 2)
+
+#### Beginner
+- Provide students with sets of simple sequences and ask them to identify the pattern. Examples:
+  - Shapes: `🔺🔺⚫️🔺🔺⚫️…`
+  - Colors: `🟡🟡🟠🟡🟡🟠…`
+  - Numbers: `3, 3, 6, 3, 3, 6…`
+- Once students can identify the pattern, challenge them to continue the sequence by adding the next few elements.
+  - Example: Sequence: `🔵🔵🟢🔵🔵🟢…` (They add 🔵🔵🟢 next)
+- Instruct students to create their own simple patterns using shapes, colors, or numbers on paper. Encourage them to share their patterns with a partner and see if their partner can identify and extend the pattern.
+- 🔍 *Focus Skills*: critical thinking, problem-solving, pattern recognition
+
+#### Intermediate
+- Provide students with sets of simple sequences and ask them to identify the pattern. Examples:
+  - Shapes: `🔺🔺⚫️🔺🔺⚫️…`
+  - Colors: `🟡🟡🟠🟡🟡🟠…`
+  - Numbers: `3, 3, 6, 3, 3, 6…`
+- Once students can identify the pattern, challenge them to continue the sequence by adding the next few elements.
+  - Example: Sequence: `🔵🔵🟢🔵🔵🟢…` (They add 🔵🔵🟢 next)
+- Instruct students to create their own simple patterns using shapes, colors, or numbers on paper. Encourage them to share their patterns with a partner and see if their partner can identify and extend the pattern.
+- If students complete all the previous challenges, create a 'pattern puzzle' where some elements from the sequence are missing. Have the students attempt to fill in the blanks.
+  - Example: `🟣, 🟣, 🟤, __, __, __, 🟣, 🟣, 🟤` (They fill in with `🟣, 🟣, 🟤`)
+  - Example: `🔺⚫️, __, ⚫️, 🔺, __` (They fill in with `🔺,⚫️`)
+- 🔍 *Focus Skills*: critical thinking, problem-solving, pattern recognition
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can:
+
+- Have students display their patterns and share them with the class to foster pride in their work and appreciation for the diversity of patterns created.
+- Ask if there were any patterns they had trouble completing. If so, which ones and why?
+
+## Wrap-Up
+
+Participating in this activity will enhance students' critical thinking. By progressively increasing the difficulty of patterns, students will utilize problem-solving principles and improve their recognition skills. Encouraging students to create and present their patterns will invite them to feel prideful in their work.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Recognize and extend patterns.
+- Students will enhance critical thinking and problem-solving skills.
+- Create their own patterns and communicate them effectively.
