@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-86daaaaad7353f9cc0c554efc1dd6d94.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-8ed061421030256178b58e48e93015a8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-885cdc8dbaf3e81a426753f4680b473e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -66,9 +66,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<!-- settings.html -->
+<script src="../../_includes/settings.js"></script>
 
 
-<link rel="stylesheet" href="../../css/styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -87,14 +88,51 @@ ul.task-list li input[type="checkbox"] {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-settings" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">⚙️ Settings</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-settings">    
+        <li>
+    <a class="dropdown-item" href="javascript:increaseTextSize()">
+ <span class="dropdown-text">Increase Text Size</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:decreaseTextSize()">
+ <span class="dropdown-text">Decrease Text Size</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:toggleAccessibilityTheme()">
+ <span class="dropdown-text">Toggle High Contrast Mode</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:toggleTheme()">
+ <span class="dropdown-text">Toggle Dark Mode</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="javascript:resetAccessibilitySettings()">
+ <span class="dropdown-text">Reset Settings</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../technical-leader-guide/index.html"> 
 <span class="menu-text">Outreach Guide</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../activities/index.html"> 
-<span class="menu-text">Activities</span></a>
+    <a class="nav-link" href="../../k-6_activities/index.html"> 
+<span class="menu-text">K-6 Activities</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../middle_school/index.html"> 
+<span class="menu-text">Middle School Outreach</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../high_school/index.html"> 
+<span class="menu-text">High School Outreach</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../../about/index.html"> 
@@ -672,7 +710,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><a href="https://www.cis.allegheny.edu/"><img src="../../images/footer_logo.png" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a></p>
+<p><a href="https://www.cis.allegheny.edu/"><img src="../../images/footer_logo.svg" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
