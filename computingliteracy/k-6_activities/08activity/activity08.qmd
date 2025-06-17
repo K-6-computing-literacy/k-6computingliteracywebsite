@@ -1,0 +1,69 @@
+---
+title: "Activity 8: Internet Safety Routes"
+subtitle: "Teaching internet safety through identifying safe and unsafe actions online using robots."
+grades: 1st grade onwards
+time_required: "30 Minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
+toc: true
+page-layout: full
+---
+
+## Description
+
+In this activity, students will practice internet safety by identifying safe and unsafe actions on the internet. Students will watch a video about internet safety and then engage in an activity using robots to create and navigate routes based on safe and unsafe terms.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- [Internet Safety Cards](https://www.teacherspayteachers.com/Product/Digital-Safety-Flashcards-for-Kids-12-Internet-Safety-Rules-12750843)
+- Wooden blocks
+- Programmable & Drivable Robot
+- IPAD
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- Discuss with students about their experiences using the internet and activities they have done online.
+- Explain the importance of learning safe practices for internet use.
+- Play the Twinkl video on internet safety: [Twinkl Internet Safety Video](https://www.youtube.com/watch?v=JTl211YlFzc).
+- After watching, ask students what they learned from the video.
+
+#### Beginner
+- Divide students into two groups and provide them with flashcards containing safe and unsafe terms/actions.
+- Instruct students to sort the flashcards into safe and unsafe categories. Review the sorted flashcards to ensure understanding before proceeding.
+- Using wooden blocks as barriors, have students create a route that their robot can navigate through.
+- Allow students to use their robot to navigate through the routes they created.
+- Encourage students to create new routes for their robot after completing the initial one.
+- 🔍 *Focus Skills*: internet safety, unsafe activity recognition
+
+#### Intermediate
+- Divide students into two groups and provide them with flashcards containing safe and unsafe terms/actions.
+- Instruct students to sort the flashcards into safe and unsafe categories. Review the sorted flashcards to ensure understanding before proceeding.
+- Using wooden blocks and the sorted flashcards, have students create two routes: one for safe terms/actions and one for unsafe terms/actions that their robot can navigate through.
+- Allow students to use their robot to navigate through the routes they created.
+- Encourage students to create new routes for their robot after completing the initial one.
+- 🔍 *Focus Skills*: internet safety, unsafe activity recognition
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- What did you learn about internet safety?
+- What might you do differently online after watching the video?
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of internet safety by actively engaging them in identifying safe and unsafe online behaviors. By using robots to navigate through created routes, students apply their knowledge in a practical and interactive manner, reinforcing internet safety practices.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand basic safety practices when using the internet or other online tools.
+- Reflect on their previous online usage to establish any necessary changes.

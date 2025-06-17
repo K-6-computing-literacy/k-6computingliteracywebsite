@@ -1,0 +1,52 @@
+---
+title: "Activity 9: Block Code With Code.Org (Minecraft and Frozen)"
+subtitle: "Exploring Minecraft & Frozen through Block Coding on Code.org"
+grades: All Grades
+time_required: "30 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
+toc: true
+page-layout: full
+---
+
+## Description
+
+Students will use the Code.org platform to play with either the Minecraft or Frozen games. Through this activity, they will utilize block-based coding to deepen their comprehension of fundamental programming concepts. As they progress through the game, students will learn how to construct sequences, loops, and conditional statements, and observe how these elements interact to produce the desired outcomes. This hands-on experience aims to enhance their understanding of how coding works in a fun and educational environment, fostering their problem-solving skills and creativity
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- IPAD
+- Code.org platform: [Minecraft Designer](https://studio.code.org/s/minecraft)
+- Code.org platform: [Code with Anna and Elsa](https://studio.code.org/s/frozen)
+
+## Steps to Conduct the Activity
+
+### Set-Up & Introduction
+
+- Open the Code.org platform on IPADs.
+- Have students watch the introductory video provided before starting the activity.
+- Guide students through the initial stages of their chosen block coding game.
+- Disable subsequent instructional videos to encourage independent exploration (optional).
+
+## Discussion & Reflection
+
+After the students have worked for about a half hour, gather the class for a quick debrief. We can ask:
+
+- What did you observed the Minecraft mobs or Frozen characters doing with the block codes?
+- Relate the activity to game development, emphasizing how coding principles translate into interactive gameplay experiences.
+
+## Wrap-Up
+
+By introducing them to basic coding principles, students will develop a stronger grasp of programming, leading to improved comprehension when they encounter more complex coding tasks in the future. This early exposure aims to build their confidence and proficiency in understanding and applying code effectively.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand basic coding principles.
+- Use conditional statements to create decision-making processes in block coding.
+- Enhance their computational thinking skills by breaking down a problem into smaller, manageable conditions and actions.
+- Test their block code in a practical setup and debug any issues that arise.

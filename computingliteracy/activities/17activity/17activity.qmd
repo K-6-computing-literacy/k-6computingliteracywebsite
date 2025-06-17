@@ -1,0 +1,96 @@
+---
+title: "Activity 17: Electrical Currents and LEDs - Play Doh"
+subtitle: "Enhancing Knowledge of Electricity and Inspiring Creativity."
+grades: All grades
+time_required: "1 hour"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
+toc: true
+page-layout: full
+---
+
+## Description
+
+In this activity, students will engage in an activity designed to introduce them to the fundamentals of electronics by making a simple circuit. Through levels of increasing difficulty, students will get a hands-on experience that provides them with a foundational understanding of how electronic circuits and programming interact.
+
+## Time Required
+
+- **Estimated Time**: 1 Hour
+
+## Materials required
+
+- Play Doh (in a variety of colors)
+- LEDs (in a variety of colors)
+- 5V Batteries with 5V Battery Holders
+- Non-conductive Clay (optional)
+- [Worksheet](https://docs.google.com/document/d/1iW4f0jPNCIwvbq399E8cg8kOai0Hg_kiSf8HCAkqTdA/edit?usp=sharing)
+
+## Steps to conduct the activity
+
+### Set-up
+
+- Print out multiple copies of the worksheet mentioned above.
+- Set up the station by organizing the materials.
+
+#### Introduction
+
+- Show this video to the class on playdoh circuits [YouTube Link](https://www.youtube.com/watch?v=VcdqBmFETNw)
+- Explain to the students that batteries have both a positive (red) and negative (black) side and in order to turn anything on a circuit needs to connect these two sides using the lights and the play doh. A circuit is like a trail and the negative needs to be able to walk back to the battery through the postive.
+- Demonstrate the creation of a playdoh light system.
+  1. Start by creating two blobs of playdough connect the red end of the battery to one and the black end to the other blob.
+  2. Explain that the light has a long leg and a short leg. The short leg always has to be on the negative (black) side and the long leg always has to be towards the postive (red) side. Then connect the light to the blobs.
+  3. Explain that the blobs can not touch out the electricity will skip past the light and not turn it on (this is called a short circuit).
+  4. After connecting the light correctly the light should turn on. Explain if the light does not turn on when they try the first thing to test is to switch the direction of the legs (this is the most common mistake).
+
+
+![LED_pins](images/led_pins.png){width=80%}
+
+![single_circuit](images/single.png){width=80%}
+
+
+- Show the students it is possible to connect two lights by creating 3 blobs of playdoh and the outer blobs should be the postivie and negative ends connected to the play dough. Then use a light to connect the blobs with the long leg always facing the postive side. This is a series circuit.
+
+![series_circuit](images/series_circuit.png){width=80%}
+
+
+- Show the students it is possible to connect more than one light in the same section. Connect a second LED in the same direction as the one next to it. This is called a parallel circuit.
+
+![parellel_circuit](images/parallel_circuit.png){width=80%}
+
+
+- Non-conductive clay can be used to block current and connect the creations. Try not to mix the play doh with the clay.
+
+#### Beginner
+
+- Now give each of the students their materials to make their own. Here are some example challengegs to give them to try:
+    - Can you follow the path that electricity takes to light up starting with the black wire?
+    - Can you get all the different colors to light up?
+- 🔍 *Focus Skills*: creativity, problem-solving, electrical component relationships
+
+#### Intermediate
+
+- - Now give each of the students their materials to make their own. Here are some example challengegs to give them to try:
+    - Can you follow the path that electricity takes to light up starting with the black wire?
+    - Can you get all the different colors to light up?
+    - Can you complete both a series and a parallel circuit with PlayDoh blobs?
+    - Can you get more than 3 blobs of PlayDoh connected in a circuit?
+- 🔍 *Focus Skills*: creativity, problem-solving, electrical component relationships
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- What part of the actvity they found the hardest?
+- What was your favorite part of the activity?
+
+## Wrap-Up
+
+This activity is a foundation for learning simple circuits. Understanding how electricity works is vital to working with electronic equipment and making electronic circuits. This activity requires creativity to be able to make different versions of the circuit while also understanding logic and electrical component relationships. 
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand the function of an LED.
+- Build a simple circuit.
+- Explore how LEDs interact with other elextrical components. 
+- Understand the difference between different kinds of circuits.

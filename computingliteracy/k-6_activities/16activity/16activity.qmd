@@ -1,70 +1,76 @@
 ---
-title: "Activity 16: Protect Your Password"
-subtitle: "Learning the Importance of Strong Passwords"  
-grades: 3rd Grade onwards
-time_required: "1 hour"
-categories: ["Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 1 Hour"]
+title: "Activity 16: Manual Control and Bulldozing Challenge"
+subtitle: "Engaging students in completing challenge cards that utilize the accessory packs and multi-step problem-solving."
+grades: 1st–6th
+time_required: "30 minutes"
+categories: ["Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
 toc: true
 page-layout: full
 ---
 
 ## Description
 
-In this activity, students will learn about the importance of creating strong passwords to protect their online accounts. Through interactive games and discussions, students will understand the concept of a strong password, learn why weak passwords can be easily guessed, and practice creating secure passwords using a mix of characters. This hands-on activity helps introduce cybersecurity concepts and promotes safe online behavior.
+In this activity, students will create and navigate obstacles through block code and the bulldozing attachment. The activity is designed with increasing difficulty based on previous coding experience, allowing students to build their programming logic as they play.
 
+Using Blockly, students will control Dash to move, aim, and push  through obstacles in order to complete challenge cards. Along the way, they'll explore fundamental computer science concepts like sequencing, debugging, conditionals, and loops—all wrapped inside a fun, interactive story.
 
-## Materials Required
+## Time Required
 
-- Whiteboard or digital presentation for demonstrating concepts
-- Paper and pencils for password creation practice
-- Printouts or projector for displaying examples of strong and weak passwords
-- [Online password strength meter](https://www.passwordmonster.com/)
+- **Estimated Time**: 30-45 minutes
 
+## Materials
+
+- Dash Robot (with bulldozer attachment)  
+- Small Obstacles (ex: plastic cups, blocks, or small boxes)
+- IPAD
+- Challenge Cards
 
 ## Steps to Conduct the Activity
 
-### Step 1: Introduction to Passwords
+### Setup
 
-- Start by asking students what passwords are and why they are used. 
-- Explain that passwords help protect personal information from being accessed by others online.
-- Discuss the importance of using passwords that are hard to guess, and introduce the term “strong password.”
+- Split students into small groups. Have them spread out throughout the room, ensuring each group has room to run the activity.
+- Each group should recieve one robot, one IPAD, one set of challenge cards, and one set of obstacles.
 
-### Step 2: What Makes a Strong Password?
+### Difficulty Breakdown
 
-- Write examples of weak passwords on the board (e.g., `123456`, `password`, `abc123`) and explain why these are easy to guess.
-- Discuss what makes a strong password, including:
-    - A mix of uppercase and lowercase letters
-    - Numbers
-    - Symbols (e.g., `@`, `#`, `$`, etc.)
-    - Avoiding common words or personal information (like names and birthdays)
+#### Introduction
 
-### Step 3: Password Creation Game
+- Demonstrate to the students how to attach the bulldoze piece to the Dash robot.
+- Give a demonstration of how to drive Dash with this attachment to show the students what they can now do.
 
-- Divide the students into small groups.
-- Challenge each group to come up with a easy password and a strong password following the rules discussed.
-- Give them a reason to come up with this idea (Like a treasure password).
-- Once groups have created their passwords, have them test their passwords using an online password strength meter 
-- Then have a game play out where different group guess each of their passwords to see if it is easy to guess the passwords.
+### Difficulty Breakdown
 
-### Step 4: Password Protection Tips
+#### Beginner
+- Set up the first challenge card and run through the challenge using Dash. 
+- Start with challenge cards that do not require the use of the bulldozing attachment and work up based on challenge accomplishment.
+- 🔍 *Focus Skill*: Following instructions, problem-solving
 
-- Discuss how to keep passwords safe:
-    - Don’t share passwords with others.
-    - Use different passwords for different websites.
-    - Change passwords regularly.
-    - Use a password manager.
+#### Intermediate
+- Set up the first challenge card and run through the challenge using Dash. 
+- Start with challenge cards that do not require the use of the bulldozing attachment and work up based on challenge accomplishment.
+- Once students have grasped the concept of the bulldoze attachment, allow them to create their own challenges. This is can be with or without the attachment.
+- 🔍 *Focus Skill*: Following instructions, problem-solving, creativity
 
-### Step 5: Reflection and Wrap-Up
+## Discussion & Reflection
 
-- Ask students why it’s important to use strong passwords and how they can protect themselves online.
-- Let them share their own tips for staying safe online.
+After the activity has been completed, gather the class for a quick debrief. We can ask:
 
+- Were there any challenges you found difficult?
+- Were you able to complete a challenge first try?
+- How many challenges were you able to complete?
+- What part did you enjoy the most?
+
+## Wrap-Up
+
+Completing challenges with the use of attachments helps to build foundational programming skills. By adjusting challenge levels and allowing room for imagination, students stay engaged while learning how to think like a programmer: plan, test, adjust, and try again!
 
 ## Learning Outcomes
 
-By the end of this activity, students should:
+By the end of this activity, students should be able to:
 
-- Understand the importance of strong passwords in cybersecurity.
-- Learn how to create secure passwords using a combination of letters, numbers, and symbols.
-- Recognize the risks of using weak passwords and sharing them with others.
-- Gain confidence in protecting their personal information online.
+- Understand basic coding principles.
+- Utilize robotic attachments.
+- Use conditional statements to create decision-making processes in block coding.
+- Enhance their computational thinking skills by breaking down a problem into smaller, manageable conditions and actions.
+- Test their block code in a practical setup and debug any issues that arise to ensure the robot navigates correctly.
