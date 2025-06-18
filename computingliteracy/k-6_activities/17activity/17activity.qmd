@@ -1,16 +1,16 @@
 ---
-title: "Activity 12: Facts and Questions"
-subtitle: "Enhancing Computational Thinking through Interactive Coding Challenges."
+title: "Activity 17: Electrical Currents and LEDs - Play Doh"
+subtitle: "Enhancing Knowledge of Electricity and Inspiring Creativity."
 grades: All grades
 time_required: "1 hour"
-categories: ["Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
 toc: true
 page-layout: full
 ---
 
 ## Description
 
-Students will engage in an activity designed to introduce them to the fundamentals of prompt engineering. Prompt engineering involves creating well-structured inputs, or prompts, that effectively guide generative AI models to produce desired outputs. Students will be presented with specific facts on various topics and tasked with matching them to corresponding questions. These questions will range from vague, incomplete inquiries to more precise, well-defined ones that align closely with the provided facts. Following this, students will create their own facts and formulate both vague and specific questions based on those facts. Other students will then review these questions and determine whether they are vague or specific. This exercise encourages critical thinking and reinforces the importance of clarity in question formulation.
+In this activity, students will engage in an activity designed to introduce them to the fundamentals of electronics by making a simple circuit. Through levels of increasing difficulty, students will get a hands-on experience that provides them with a foundational understanding of how electronic circuits and programming interact.
 
 ## Time Required
 
@@ -18,36 +18,79 @@ Students will engage in an activity designed to introduce them to the fundamenta
 
 ## Materials required
 
-- [PROMPT ENGINNERING SHEET](https://docs.google.com/document/d/1mJAJydQ2olyK8WIuekeiCnQtRRAY-yUmrFYf052cTBU/edit)
-- Pencil 
+- Play Doh (in a variety of colors)
+- LEDs (in a variety of colors)
+- 5V Batteries with 5V Battery Holders
+- Non-conductive Clay (optional)
+- [Worksheet](https://docs.google.com/document/d/1iW4f0jPNCIwvbq399E8cg8kOai0Hg_kiSf8HCAkqTdA/edit?usp=sharing)
 
-## Steps to Conduct the Activity
+## Steps to conduct the activity
 
-### Set-Up
+### Set-up
 
-- Pass out the engineering sheet.
+- Print out multiple copies of the worksheet mentioned above.
+- Set up the station by organizing the materials.
 
-### Instructions
+#### Introduction
 
-- Students should first complete the prompt enginnering sheet.
-- Direct the students to create 2 facts based on one a topic of their choosing, then prompt then to create two question for each fact one being vauge the other being specific.
-- Pair students in groups of two to switch sheets to ideinfity which question are vauge and specific. 
-- Keep switching groups until students have rotated at least three times. 
+- Show this video to the class on playdoh circuits [YouTube Link](https://www.youtube.com/watch?v=VcdqBmFETNw)
+- Explain to the students that batteries have both a positive (red) and negative (black) side and in order to turn anything on a circuit needs to connect these two sides using the lights and the play doh. A circuit is like a trail and the negative needs to be able to walk back to the battery through the postive.
+- Demonstrate the creation of a playdoh light system.
+  1. Start by creating two blobs of playdough connect the red end of the battery to one and the black end to the other blob.
+  2. Explain that the light has a long leg and a short leg. The short leg always has to be on the negative (black) side and the long leg always has to be towards the postive (red) side. Then connect the light to the blobs.
+  3. Explain that the blobs can not touch out the electricity will skip past the light and not turn it on (this is called a short circuit).
+  4. After connecting the light correctly the light should turn on. Explain if the light does not turn on when they try the first thing to test is to switch the direction of the legs (this is the most common mistake).
+
+
+![LED_pins](images/led_pins.png){width=80%}
+
+![single_circuit](images/single.png){width=80%}
+
+
+- Show the students it is possible to connect two lights by creating 3 blobs of playdoh and the outer blobs should be the postivie and negative ends connected to the play dough. Then use a light to connect the blobs with the long leg always facing the postive side. This is a series circuit.
+
+![series_circuit](images/series_circuit.png){width=80%}
+
+
+- Show the students it is possible to connect more than one light in the same section. Connect a second LED in the same direction as the one next to it. This is called a parallel circuit.
+
+![parellel_circuit](images/parallel_circuit.png){width=80%}
+
+
+- Non-conductive clay can be used to block current and connect the creations. Try not to mix the play doh with the clay.
+
+#### Beginner
+
+- Now give each of the students their materials to make their own. Here are some example challengegs to give them to try:
+    - Can you follow the path that electricity takes to light up starting with the black wire?
+    - Can you get all the different colors to light up?
+- 🔍 *Focus Skills*: creativity, problem-solving, electrical component relationships
+
+#### Intermediate
+
+- - Now give each of the students their materials to make their own. Here are some example challengegs to give them to try:
+    - Can you follow the path that electricity takes to light up starting with the black wire?
+    - Can you get all the different colors to light up?
+    - Can you complete both a series and a parallel circuit with PlayDoh blobs?
+    - Can you get more than 3 blobs of PlayDoh connected in a circuit?
+- 🔍 *Focus Skills*: creativity, problem-solving, electrical component relationships
 
 ## Discussion & Reflection
 
 After the activity has been completed, gather the class for a quick debrief. We can ask:
 
-- What part of the acitivty was the hardest?
-- Did you find identifying question or creating them to be harder?
+- What part of the actvity they found the hardest?
+- What was your favorite part of the activity?
 
 ## Wrap-Up
 
-As advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Introducing students to these concepts at an early age will enhance their understanding of how prompt engineering works and how it connects to their existing curriculum, fostering essential skills for the future of technology and innovation. Requiring students to formulate more specific and detailed questions will enhance their ability to identify and construct clear, precise prompts, an essential skill in prompt engineering. This practice not only deepens their understanding of the subject matter but also strengthens their critical thinking and problem-solving abilities, which are vital for success in the evolving field of AI and technology.
+This activity is a foundation for learning simple circuits. Understanding how electricity works is vital to working with electronic equipment and making electronic circuits. This activity requires creativity to be able to make different versions of the circuit while also understanding logic and electrical component relationships. 
 
 ## Learning Outcomes
 
 By the end of this activity, students should be able to:
 
-- Create detailed questions or prompts.
-- Review the questions or prompts given by their peers to determine whether or not they are vague or specific.
+- Understand the function of an LED.
+- Build a simple circuit.
+- Explore how LEDs interact with other elextrical components. 
+- Understand the difference between different kinds of circuits.

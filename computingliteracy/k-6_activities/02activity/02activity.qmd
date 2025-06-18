@@ -29,7 +29,7 @@ The activity is designed with increasing difficulty based on previous coding exp
 
 ### Set-Up
 - Inflate 3 balloons and secure them. Blow up one more in case an additional example is needed.
-- Write the binary digits 0 and 1 on the balloons using a permanent marker. Example provided in this folder: ![Example of binary balloon activity](../images/02activity.png).
+- Write the binary digits 0 and 1 on the balloons using a permanent marker. Example provided in this folder: ![Example of binary balloon activity](/images/02activity.png).
 
 ### Difficulty Breakdown
 

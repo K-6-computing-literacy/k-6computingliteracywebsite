@@ -18,7 +18,7 @@ In this activity, students will practice internet safety by identifying safe and
 
 ## Materials Required
 
-- [Internet Safety Cards](https://www.teacherspayteachers.com/Product/Digital-Safety-Flashcards-for-Kids-12-Internet-Safety-Rules-12750843)
+- [Internet Safety Cards](/images/08activity.jpg)
 - Wooden blocks
 - Programmable & Drivable Robot
 - IPAD
