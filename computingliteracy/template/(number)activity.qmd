@@ -1,5 +1,5 @@
 ---
-title: "Activity _ : "
+title: "Activity _ : __"
 subtitle: "Blurb about the activity"
 grades: Grade
 time_required: " hour"
@@ -16,29 +16,11 @@ Please ensure you are creating an activity as a PR and getting it reviewed by th
 
 Add description of the activity
 
+## Time Required
+
+- **Estimated Time**: __
+
 ## Materials Required
-
--
--
-
-## Steps to Conduct the Activity
-
-### Step 1:
-
-- 
-
-### Step 2:
-
-
-### Step 3
-
-Add more steps, if required.
-
-## Reflection
-
-## Learning Outcomes
-
-By the end of this activity, students should be able to:
 
 -
 
@@ -46,3 +28,40 @@ By the end of this activity, students should be able to:
 
 ![Picture](link to the picture)
 
+## Steps to Conduct the Activity
+
+### Set-Up
+
+- 
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- 
+
+#### Beginner
+
+- 
+
+#### Intermediate
+
+- 
+
+
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- 
+
+## Wrap-Up
+
+__
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+-
