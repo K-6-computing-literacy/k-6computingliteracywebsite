@@ -1,0 +1,46 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+<div class="hero-section">
+  <h1 class="main-title">Themed Modules</h1>
+  <p class="subtitle">6-Week programs with a special focus in various computer science pathways.</p>
+</div>
+
+<hr class="section-divider">
+
+<div class="info-section">
+  <div class="info-image">
+  <img class="image" src="/images/4.png" alt="Picture of the students">
+  </div>
+  <div class="info-content">
+  <h2 class="info-title">Cybersecurity and Online Safety</h2>
+  <p class="info-subtitle">Learn about how we can keep our technology and online selves safe.</p>
+  <a href="themed-modules/AI-machine-learning/cyber.qmd" class="button">Let's Go!</a>
+  </div>
+</div>
+
+<div class="info-section-reverse">
+  <div class="info-image">
+  <img class="image" src="/images/4.png" alt="Picture of the students">
+  </div>
+  <div class="info-content">
+  <h2 class="info-title">AI and Machine Learning</h2>
+  <p class="info-subtitle">Learn about what AI and machine learning are, and why they are important to computer science.</p>
+  <a href="themed-modules/cybersecurity-online-security/cyber.qmd" class="button">Let's Go!</a>
+  </div>
+</div>
+
+<div class="info-section">
+  <div class="info-image">
+  <img class="image" src="/images/4.png" alt="Picture of the students">
+  </div>
+  <div class="info-content">
+  <h2 class="info-title">Game Design</h2>
+  <p class="info-subtitle">Learn about the different steps and processes involved in making a game.</p>
+  <a href="themed-modules/game-design/game.qmd" class="button">Let's Go!</a>
+  </div>
+</div>
+

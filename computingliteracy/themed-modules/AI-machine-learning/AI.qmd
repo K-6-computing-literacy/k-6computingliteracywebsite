@@ -1,0 +1,5 @@
+---
+title: "Pizza"
+page-layout: full
+toc: true
+---
