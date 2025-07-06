@@ -4,9 +4,26 @@ toc: true
 page-layout: full
 ---
 
+## Our Mission and Goal
+
+Our mission is to foster meaningful, hands-on learning experiences in STEM that span from elementary through high school. Through a growing collaboration between the Department of Computer and Information Science at Allegheny College and Crawford Central schools, we aim to build a strong foundation in computer science, engineering, and robotics that evolves as students grow.
+
+This initiative provides students in elementary, middle, and high school with opportunities to engage in creative, inquiry-based STEM activities. By offering consistent, developmentally appropriate exposure to computing and robotics, we support students in building confidence, critical thinking, and problem-solving skills that will prepare them for the future.
+
+We believe that every student—regardless of age, background, or experience—deserves access to high-quality STEM education and the opportunity to imagine themselves as future engineers, scientists, and creators.
+
+## Why It Matters
+
+STEM education is more than coding or circuits—it's about helping students understand the world around them, make informed decisions, and confidently explore solutions to real problems. These skills are relevant across all disciplines and vital for civic engagement, workforce development, and lifelong learning.
+
+- **Elementary students** begin exploring basic logic, teamwork, and creative problem-solving.
+
+
+By offering a continuous path through K–6, we support long-term engagement and academic growth in STEM fields.
+
 ## What is the Computing Outreach Program?
 
-Computing outreach involves engaging K-12 students in regular, hands-on computing activities to foster interest and competency in computational skills. This includes introducing students to computational thinking and problem-solving through events, workshops, classroom activities, and using technologies. The goal is to provide consistent exposure to the computing field in a fun and engaging way.
+Computing outreach involves engaging K-6 students in regular, hands-on computing activities to foster interest and competency in computational skills. This includes introducing students to computational thinking and problem-solving through events, workshops, classroom activities, and using technologies. The goal is to provide consistent exposure to the computing field in a fun and engaging way.
 
 ## What to Expect as a Computing Outreach Fellow
 
@@ -16,29 +33,43 @@ Computing outreach involves engaging K-12 students in regular, hands-on computin
 * Older students (5th to 6th grade) will involve the use of robotics in activities, requiring fellows to understand how the robots work and how they fit into the activities.
 * You will be given outlines that will guide you through the necessary steps for conducting activities.
 
-## Helping Middle School Students
+## Helping Elementary School Students
 
-Middle school students (grades 6-8) are at a critical stage where they can begin to explore more advanced computational concepts. As a fellow, you will:
+Elementary school students (grades K-6) are at a critical stage where they can begin to explore computational concepts. As a fellow, you will:
 
 * Introduce students to programming concepts using beginner-friendly languages like Python.
 * Facilitate hands-on activities that involve building and programming robots or creating simple games.
 * Encourage teamwork and collaboration through group projects that solve real-world problems using computational thinking.
 * Provide guidance on how computing skills can be applied in various fields, such as science, art, and engineering.
 
-## Helping High School Students
+## Key Responsibilities & Commitments
 
-High school students (grades 9-12) are ready to dive deeper into computing and explore career opportunities in the field. As a fellow, you will:
-
-* Teach students more advanced programming concepts, such as algorithms, data structures, and web development.
-* Guide students in creating their own projects, such as websites, apps, or robotics projects.
-* Organize workshops to encourage creativity and problem-solving.
-* Discuss career paths in computing, including software development, data science, cybersecurity, and artificial intelligence.
-* Provide mentorship and resources for students interested in pursuing computing-related college programs or certifications.
-
-## Key Responsibilities
-
-* Working with children and teenagers across different age groups.
+* Working with children across different age groups.
 * Collaborating with faculty at Meadville public schools.
 * Running through and understanding activities beforehand.
 * Reading books and using resources that improve students' understanding of computational skills.
 * Adapting activities to suit the age group and skill level of the students.
+* Remain in good academic standing with Allegheny College.
+* Complete and submit all required clearances and documents before my start date.
+* Participate in two activity sessions and one hour of preparation per week during the active work period (6 consecutive weeks).
+* Miss no more than 3 of my total weekly sessions. If I cannot make it due to illness, injury, or an emergency, I will let the Outreach Director and Coordinator know as soon as possible so that an alternative plan can be made.
+
+## Skills Gained
+
+* Critical Thinking
+* Computer & Software Literacy
+* Adaptability
+* Collaboration
+* Creativity
+* Leadersip
+* Interpersonal Relationships
+* Communication
+* And many more
+
+## Resources
+
+* [Activity Template](https://docs.google.com/document/d/1tqUqxVfHHYCJk84iGse0dcxqsxzq9m5LOCaBWmpX-y4/edit?tab=t.0)
+* [Allegheny CIS Department](https://www.cis.allegheny.edu/)
+* Professor Janyl Jumadinova
+    * [Email](jjumadinoa@allegheny.edu)
+    * Phone: (814) 332-2881

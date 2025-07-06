@@ -17,10 +17,9 @@ We believe that every student—regardless of age, background, or experience—d
 STEM education is more than coding or circuits—it's about helping students understand the world around them, make informed decisions, and confidently explore solutions to real problems. These skills are relevant across all disciplines and vital for civic engagement, workforce development, and lifelong learning.
 
 - **Elementary students** begin exploring basic logic, teamwork, and creative problem-solving.
-- **Middle school students** expand into physical computing, data collection, and iterative design.
-- **High school students** take on more complex projects, including robotics, control systems, and ethical use of technology.
 
-By offering a continuous path through K–12, we support long-term engagement and academic growth in STEM fields.
+
+By offering a continuous path through K–6, we support long-term engagement and academic growth in STEM fields.
 
 ## Pennsylvania Education Framework
 
