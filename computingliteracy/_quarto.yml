@@ -26,16 +26,14 @@ website:
           - text: "Reset Settings"
             href: "javascript:resetAccessibilitySettings()"
     right:
-      - text: "Outreach Guide"
-        href: "technical-leader-guide/index.qmd"
-      - text: "K-6 Activities"
-        href: "k-6_activities/index.qmd"
-      - text: "Middle School Outreach"
-        href: "middle_school/index.qmd"
-      - text: "High School Outreach"
-        href: "high_school/index.qmd"
       - text: "About"
         href: "about/index.qmd"
+      - text: "Outreach Guide"
+        href: "technical-leader-guide/index.qmd"
+      - text: "All K-6 Activities"
+        href: "k-6_activities/index.qmd"
+      - text: "Themed Modules"
+        href: "themed-modules/index.qmd"
   page-footer:
     left: '<a href="https://www.cis.allegheny.edu/"><img src="/images/footer_logo.svg" alt="Footer Image" style="height: 70px; vertical-align: middle; margin-right: 5px;"></a>'
     right:
