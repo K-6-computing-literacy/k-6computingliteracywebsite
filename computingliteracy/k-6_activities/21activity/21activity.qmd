@@ -1,0 +1,64 @@
+---
+title: "Activity 21: Internet Safety: Online Gaming and Video Calling"
+subtitle: "Teaching internet safety through safe gaming and video call practices."
+grades: All grades
+time_required: "45 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
+toc: true 
+page-layout: full
+---
+
+## Description
+
+In this activity, students will practice internet safety by learning about safe practices when gaming, chatting, or calling online. Students will two videos and complete two short Kahoots to check for understanding.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- [Online Gaming Sheet](https://cyber.org/sites/default/files/2020-11/Online%20Gaming%20Safety%20Tip%20Card_1.pdf)
+- [Video Call Sheet](https://cyber.org/sites/default/files/2020-08/Cyber%20Safety%20Video%20Tip%20Cards%20Video%20Call%20Safety.pdf)
+- [Online Gaming Video](https://www.youtube.com/watch?v=V1b4odH-20g)
+- [Video Call Video](https://www.youtube.com/watch?v=m-Sy92NjFmY)
+- [Online Gaming Kahoot](https://create.kahoot.it/share/online-gaming-safety-3-5/77c891ac-c62e-4436-b0b9-530f6e2c9c15)
+- [Video Call Kahoot](https://create.kahoot.it/share/video-call-safety-3-5/ddbd8a1e-d9eb-4eb6-9e41-72aa9abf1b26)
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- Discuss with students about their experiences using the internet and activities they have done online.
+- Explain the importance of being able to identify safe and unsafe practices when gaming online or video calling. Use the sheets as references.
+
+#### Instructions
+
+- Have the students watch the video about safe online gaming practices.
+- Ask the students if they have any questions or noticed a behaviour they have done.
+- Have the students play the Kahoot related to online gaming safety.
+- Have the students watch the video about safe video calling practices.
+- Ask the students if they have any questions or noticed a behaviour they have done.
+- Have the students play the Kahoot related to video calling safety.
+- 🔍 *Focus Skills*: internet safety, unsafe activity recognition
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- What did you learn about safe online gaming practices?
+- What did you learn about video calling safety?
+- What might you do differently online after watching the video?
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of internet safety by actively engaging them in identifying safe and unsafe behaviour when gaming or video calling. By taking quiz Kahoots, students apply their knowledge in a practical and interactive manner, reinforcing internet safety practices.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand basic safety practices when using the internet or other online tools.
+- Reflect on their previous online usage to establish any necessary changes.

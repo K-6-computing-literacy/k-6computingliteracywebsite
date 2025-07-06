@@ -16,7 +16,7 @@ toc: false
   <img class="image" src="/images/cybersecurity.png" alt="Picture of a clipart computer with a lock centered on the screen.">
   </div>
   <div class="info-content">
-  <h2 class="info-title">Cybersecurity and Online Safety</h2>
+  <h2 class="info-title">Cybersecurity & Online Safety</h2>
   <p class="info-subtitle">Learn about how we can keep our technology and online selves safe.</p>
   <a href="cybersecurity-online-safety/cyber.qmd" class="button">Let's Go!</a>
   </div>
@@ -27,7 +27,7 @@ toc: false
   <img class="image" src="/images/machine_learning.png" alt="Picture of a brain split down the middle. The left half looks like a blue brain, and the rights a bunch of gears.">
   </div>
   <div class="info-content">
-  <h2 class="info-title">AI and Machine Learning</h2>
+  <h2 class="info-title">AI & Machine Learning</h2>
   <p class="info-subtitle">Learn about what AI and machine learning are, and why they are important to computer science.</p>
   <a href="ai-machine-learning/AI.qmd" class="button">Let's Go!</a>
   </div>
