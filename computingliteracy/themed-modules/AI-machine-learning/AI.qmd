@@ -1,5 +1,11 @@
 ---
-title: "Pizza"
+title: ""
 page-layout: full
 toc: true
 ---
+
+<div class="hero-section">
+  <h1 class="main-title">AI & Machine Learning</h1>
+</div>
+
+<hr class="section-divider">

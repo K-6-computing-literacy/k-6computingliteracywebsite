@@ -1,6 +1,11 @@
 ---
-title: "Ice Cream"
+title: ""
 page-layout: full
 toc: true
 ---
 
+<div class="hero-section">
+  <h1 class="main-title">Game Design</h1>
+</div>
+
+<hr class="section-divider">
