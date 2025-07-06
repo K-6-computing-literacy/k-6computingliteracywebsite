@@ -13,7 +13,7 @@ toc: false
 
 <div class="info-section">
   <div class="info-image">
-  <img class="image" src="/images/4.png" alt="Picture of the students">
+  <img class="image" src="/images/cybersecurity.png" alt="Picture of a clipart computer with a lock centered on the screen.">
   </div>
   <div class="info-content">
   <h2 class="info-title">Cybersecurity and Online Safety</h2>
@@ -24,7 +24,7 @@ toc: false
 
 <div class="info-section-reverse">
   <div class="info-image">
-  <img class="image" src="/images/4.png" alt="Picture of the students">
+  <img class="image" src="/images/machine_learning.png" alt="Picture of a brain split down the middle. The left half looks like a blue brain, and the rights a bunch of gears.">
   </div>
   <div class="info-content">
   <h2 class="info-title">AI and Machine Learning</h2>
@@ -35,7 +35,7 @@ toc: false
 
 <div class="info-section">
   <div class="info-image">
-  <img class="image" src="/images/4.png" alt="Picture of the students">
+  <img class="image" src="/images/game_design.png" alt="Picture of a game controller with a red gear pearing out overtop.">
   </div>
   <div class="info-content">
   <h2 class="info-title">Game Design</h2>
