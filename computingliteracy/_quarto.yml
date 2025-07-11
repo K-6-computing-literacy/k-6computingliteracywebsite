@@ -32,6 +32,8 @@ website:
         href: "technical-leader-guide/index.qmd"
       - text: "All K-6 Activities"
         href: "k-6_activities/index.qmd"
+      - text: "Main Modules"
+        href: "main_modules/index.qmd"
       - text: "Themed Modules"
         href: "themed-modules/index.qmd"
   page-footer:
