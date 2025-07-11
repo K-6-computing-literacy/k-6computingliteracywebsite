@@ -15,13 +15,13 @@ toc: true
   <div class="curriculum-box">
       <h3 class="info-title">Week 1: Internet Safety Routes</h3>
       <p class="info-subtitle">Teaching internet safety through identifying safe and unsafe actions online. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <a href="k-6_activities/08activity/activity08.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
       <h3 class="info-title">Week 2: Personally Identifiable Information</h3>
       <p class="info-subtitle">Teaching internet safety through the protection of personally identifiable information.</p>
-      <a href="TBD" class="button">Let's go!</a>
+      <a href="08activity/activity08.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
