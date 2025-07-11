@@ -14,14 +14,14 @@ toc: true
 <div class="curriculum-section">
   <div class="curriculum-box">
       <h3 class="info-title">Week 1: Internet Safety Routes</h3>
-      <p class="info-subtitle">Teaching internet safety through identifying safe and unsafe actions online. </p>
-      <a href="k-6_activities/08activity/activity08.qmd" class="button">Let's go!</a>
+      <p class="info-subtitle">Learn about safe and unsafe actions online. </p>
+      <a href="/k-6_activities/08activity/activity08.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
       <h3 class="info-title">Week 2: Personally Identifiable Information</h3>
-      <p class="info-subtitle">Teaching internet safety through the protection of personally identifiable information.</p>
-      <a href="08activity/activity08.qmd" class="button">Let's go!</a>
+      <p class="info-subtitle">Learn about personally identifiable information and how to protect it.</p>
+      <a href="/k-6_activities/19activity/19activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
@@ -29,27 +29,27 @@ toc: true
   <div class="curriculum-box">
       <h3 class="info-title">Week 3: Protect Your Password</h3>
       <p class="info-subtitle">Learn the importance of strong passwords.</p>
-      <a href="TBD" class="button">Let's go!</a>
+      <a href="/k-6_activities/11activity/11activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
       <h3 class="info-title">Week 4: Connected Devices</h3>
-      <p class="info-subtitle">Teaching internet safety through wifi connections and plug-ins to devices.</p>
-      <a href="TBD" class="button">Let's go!</a>
+      <p class="info-subtitle">Learn how to keep your devices and downloaded information safe.</p>
+      <a href="/k-6_activities/20activity/20activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
 <div class="curriculum-section">
   <div class="curriculum-box">
       <h3 class="info-title">Week 5: Online Gaming & Video Calling</h3>
-      <p class="info-subtitle">Teaching internet safety through safe gaming and video call practices.</p>
-      <a href="TBD" class="button">Let's go!</a>
+      <p class="info-subtitle">Learning safe gaming and video call practices.</p>
+      <a href="/k-6_activities/21activity/21activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
       <h3 class="info-title">Week 6: Phishing</h3>
-      <p class="info-subtitle">Teaching internet safety through identifying various signs of a phishing scam.</p>
-      <a href="TBD" class="button">Let's go!</a>
+      <p class="info-subtitle">Learn how to identify signs of a phishing scam.</p>
+      <a href="/k-6_activities/18activity/18activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 ```
