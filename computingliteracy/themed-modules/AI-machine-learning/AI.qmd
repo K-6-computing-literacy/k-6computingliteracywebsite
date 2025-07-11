@@ -9,3 +9,48 @@ toc: true
 </div>
 
 <hr class="section-divider">
+
+
+```{=html}
+<div class="curriculum-section">
+  <div class="curriculum-box">
+      <h3 class="info-title">TBD</h3>
+      <p class="info-subtitle">TBD. </p>
+      <a href="TBD" class="button">Let's go!</a>
+  </div>
+
+  <div class="curriculum-box">
+      <h3 class="info-title">TBD</h3>
+      <p class="info-subtitle">TBD. </p>
+      <a href="TBD" class="button">Let's go!</a>
+  </div>
+</div>
+
+<div class="curriculum-section">
+<div class="curriculum-box">
+      <h3 class="info-title">TBD</h3>
+      <p class="info-subtitle">TBD. </p>
+      <a href="TBD" class="button">Let's go!</a>
+  </div>
+
+  <div class="curriculum-box">
+      <h3 class="info-title">TBD</h3>
+      <p class="info-subtitle">TBD. </p>
+      <a href="TBD" class="button">Let's go!</a>
+  </div>
+</div>
+
+<div class="curriculum-section">
+  <div class="curriculum-box">
+      <h3 class="info-title">TBD</h3>
+      <p class="info-subtitle">TBD. </p>
+      <a href="TBD" class="button">Let's go!</a>
+  </div>
+
+  <div class="curriculum-box">
+      <h3 class="info-title">TBD</h3>
+      <p class="info-subtitle">TBD. </p>
+      <a href="TBD" class="button">Let's go!</a>
+  </div>
+</div>
+```

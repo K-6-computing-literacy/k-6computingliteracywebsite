@@ -6,7 +6,7 @@ toc: true
 
 <div class="hero-section">
   <h1 class="main-title">Cybersecurity & Online Safety</h1>
-  <p class="subtitle">Welcome to the Cybersecurity & Online Safety 6-Week lesson module! Below you'll find the week-by-week activity breakdown for this lesson module.
+  <p class="subtitle">Welcome to the Cybersecurity & Online Safety 6-Week lesson module! Below you'll find the week-by-week activity breakdown for this lesson module. </p>
 
 <hr class="section-divider">
 
