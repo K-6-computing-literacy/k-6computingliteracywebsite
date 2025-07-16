@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Game Design"
 page-layout: full
 toc: true
 ---
