@@ -1,5 +1,5 @@
 ---
-title: "Themed Modules"
+title: ""
 page-layout: full
 toc: false
 ---
