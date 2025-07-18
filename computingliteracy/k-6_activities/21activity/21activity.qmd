@@ -3,14 +3,14 @@ title: "Activity 21: Internet Safety: Online Gaming and Video Calling"
 subtitle: "Teaching internet safety through safe gaming and video call practices."
 grades: All grades
 time_required: "45 minutes"
-categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 30 Minutes"]
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
 toc: true 
 page-layout: full
 ---
 
 ## Description
 
-In this activity, students will practice internet safety by learning about safe practices when gaming, chatting, or calling online. Students will two videos and complete two short Kahoots to check for understanding.
+In this activity, students will practice internet safety by learning about safe practices when gaming, chatting, or calling online. Students will watch two videos and complete two short Kahoots to check for understanding.
 
 ## Time Required
 
@@ -42,7 +42,7 @@ In this activity, students will practice internet safety by learning about safe 
 - Have the students watch the video about safe video calling practices.
 - Ask the students if they have any questions or noticed a behaviour they have done.
 - Have the students play the Kahoot related to video calling safety.
-- 🔍 *Focus Skills*: internet safety, unsafe activity recognition
+- 🔍 Focus Skills: internet safety, unsafe activity recognition
 
 ## Discussion & Reflection
 
@@ -54,7 +54,8 @@ After the activity has been completed, gather the class for a quick debrief. We 
 
 ## Wrap-Up
 
-This activity aims to enhance students' understanding of internet safety by actively engaging them in identifying safe and unsafe behaviour when gaming or video calling. By taking quiz Kahoots, students apply their knowledge in a practical and interactive manner, reinforcing internet safety practices.
+This activity aims to enhance students’ understanding of internet safety by actively engaging them in identifying safe and unsafe behaviour when gaming or video calling. By taking quiz Kahoots, students apply their knowledge in a practical and interactive manner, reinforcing internet safety practices.
+
 
 ## Learning Outcomes
 

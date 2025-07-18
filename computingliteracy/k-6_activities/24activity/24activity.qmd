@@ -1,0 +1,64 @@
+---
+title: "Activity 24: Make Me Happy"
+subtitle: "Students will train a machine learning model to recognise compliments and insults by typing examples of kind statements and mean statements."
+grades: All grades
+time_required: "45 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+toc: true 
+page-layout: full
+---
+
+## Description
+
+In this activity, students will train AI to recognize text and respond. Students will watch a video and complete a short lesson module on how to train AI to look for certain parameters.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- IPADs or Shared Projector
+- [Teacher Lesson Notes](https://docs.google.com/document/d/1LdfizJ9nQJprYBBkPh7KBo-lBKjDuQcwg6MJLdkESlY/edit?tab=t.0)
+- [Lesson Instructions](https://docs.google.com/document/d/1Og472tGr2w28jY-p2jO3JQjspAjJYIqVtgALitZN0Go/edit?tab=t.0)
+
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Set-Up
+
+- On the chosen techology device, follow steps 1-22.
+- Have all the students watch a quick demo on how the different phrases cause the face to react.
+
+#### Beginner
+
+- Keep all the students in one large group.
+- Run through steps 23-39.
+- 🔍 *Focus Skills*: group collaboration, sentimental analysis
+
+#### Intermediate
+
+- Break the students down into small groups.
+- Have students run through steps 23-39 in their groups.
+- 🔍 *Focus Skills*: teamwork, sentimental analysis
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- Was your AI able to recognize compliments and insults?
+- Could you train the machine to recognize other types of messages?
+- Can you think of examples where it would be important to train a computer to recognize emotion in writing?
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of machine learning and AI pattern recognition. By training AI, students apply their knowledge in a practical and interactive manner, reinforcing the time and effort that goes into machine learning.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Train a computer to recognize emotional tone through text
+- Explain how more training leads to more accurate training results

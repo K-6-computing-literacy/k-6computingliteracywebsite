@@ -14,43 +14,43 @@ toc: true
 ```{=html}
 <div class="curriculum-section">
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 1: Pattern Recognition</h3>
+      <p class="info-subtitle">Learn about different styles of patterns. </p>
+      <a href="/k-6_activities/06activity/06activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 2: Facts & Questions</h3>
+      <p class="info-subtitle">Learn how specfics can entirely change an outcome. </p>
+      <a href="/k-6_activities/12activity/12activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
 <div class="curriculum-section">
 <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 3: Is It a Fish?</h3>
+      <p class="info-subtitle">Learn how to train an AI and the importance behind proper training.</p>
+      <a href="/k-6_activities/22activity/22activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 4: Dance Party</h3>
+      <p class="info-subtitle">Learn about AI's generative properties. </p>
+      <a href="/k-6_activities/23activity/23activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
 <div class="curriculum-section">
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 5: Make Me Happy</h3>
+      <p class="info-subtitle">Learn how to teach AI to recognize emotion in text. </p>
+      <a href="/k-6_activities/24activity/24activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 6: AI & Bias</h3>
+      <p class="info-subtitle">Learn about how improper or incomplete data used to train AI causes bias. </p>
+      <a href="/k-6_activities/25activity/25activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 ```

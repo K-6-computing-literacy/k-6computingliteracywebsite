@@ -1,0 +1,56 @@
+---
+title: "Activity 23: Media (Re)Generation: Dance Party!"
+subtitle: "Students will use AI to generate new backgrounds for their dance party to help understand how AI works."
+grades: All grades
+time_required: "45 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+toc: true 
+page-layout: full
+---
+
+## Description
+
+In this activity, students will use generative AI to create backgrounds for their dance party. Students will watch a video and complete a short lesson module on generative AI.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- IPADs
+- [Code.org Video](https://youtu.be/m4fcHdJ-65o)
+- [Code.org Lesson Module](https://studio.code.org/courses/dance-ai-2023/units/1/lessons/1/levels/2)
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- Discuss with students about what they think AI is. Can it be used to generate things?
+- Have the students watch the video about AI.
+- Split students into small groups. If there are enough IPADs, students may work individually.
+
+#### Instructions
+
+- Have students complete all of the module lessons on the IPADs, making sure they watch the videos as they go.
+- 🔍 *Focus Skills*: object generation, creativity
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- Can AI be used to generate objects? What about regeneration?
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of AI media generation. By using the AI 'generate effect' code block, students apply their knowledge in a practical and interactive manner, building understanding of AI while fostering creativity.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Identify if AI can generate media
+- Identify if AI can rengenerate media using the same prompt
+- Briefly explain how AI works

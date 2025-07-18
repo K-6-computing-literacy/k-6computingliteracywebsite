@@ -1,0 +1,65 @@
+---
+title: "Activity 22: Training AI: Is It a Fish?"
+subtitle: "Showing students how AI learns through pattern recognition."
+grades: All grades
+time_required: "45 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+toc: true 
+page-layout: full
+---
+
+## Description
+
+In this activity, students will practice training AI by identifying different objects as either fish or trash. Students will watch a video and complete a short lesson module on how to train AI to look for certain parameters.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- IPADs
+- [Code.org Video](https://youtu.be/KHbwOetbmbs)
+- [Code.org Lesson Module](https://studio.code.org/courses/oceans/units/1/lessons/1/levels/2)
+
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- Discuss with students about what they think AI and machine learning are.
+- Have the students watch the video about AI and machine learning. 
+- Split students into small groups. If there are enough IPADs, students may work individually.
+
+#### Beginner
+
+- Have students complete module lessons 2-4 on the IPADs. 
+- 🔍 *Focus Skills*: machine learning, data analysis, patience
+
+#### Intermediate
+
+- Have students complete module lessons 2-4 on the IPADs. 
+- Have students complete module lessons 6 and 8 on the IPADs.
+- 🔍 *Focus Skills*: machine learning, data analysis & interpretation, patience
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- How does AI know how to identify objects?
+- Does the AI do a better job with more or less training?
+- Did your AI have any trouble correctly identifying the fish?
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of machine learning and AI pattern recognition. By training AI, students apply their knowledge in a practical and interactive manner, reinforcing the time and effort that goes into machine learning.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand what AI and machine learning are
+- Understand how one trains AI
+- Explain how more training leads to more accurate training results
