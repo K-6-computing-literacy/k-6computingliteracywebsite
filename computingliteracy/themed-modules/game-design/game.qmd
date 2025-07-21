@@ -6,6 +6,7 @@ toc: true
 
 <div class="hero-section">
   <h1 class="main-title">Game Design</h1>
+  <p class="subtitle">Welcome to the Game Design 6-Week lesson module! Below you'll find the week-by-week activity breakdown for this lesson module. </p>
 </div>
 
 <hr class="section-divider">
@@ -13,43 +14,43 @@ toc: true
 ```{=html}
 <div class="curriculum-section">
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 1: Build Your Environment</h3>
+      <p class="info-subtitle">Learn about the elements of making a game background.</p>
+      <a href="/k-6_activities/27activity/27activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 2: Making Your Main Character</h3>
+      <p class="info-subtitle">Learn about the elements of making a character.</p>
+      <a href="/k-6_activities/26activity/26activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
 <div class="curriculum-section">
 <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 3: Movement Basics</h3>
+      <p class="info-subtitle">Learn about different ways you can interact with your character.</p>
+      <a href="/k-6_activities/28activity/28activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 4: Player POV</h3>
+      <p class="info-subtitle">Learn how your camera angle affects the player and game tone. </p>
+      <a href="/k-6_activities/29activity/29activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 
 <div class="curriculum-section">
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 5: Pattern Recognition</h3>
+      <p class="info-subtitle">Learn about different styles of patterns. </p>
+      <a href="/k-6_activities/06activity/06activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
-      <h3 class="info-title">TBD</h3>
-      <p class="info-subtitle">TBD. </p>
-      <a href="TBD" class="button">Let's go!</a>
+      <h3 class="info-title">Week 6: Debugging</h3>
+      <p class="info-subtitle">Learn how to identify and fix coding errors.</p>
+      <a href="/k-6_activities/05activity/05activity.qmd" class="button">Let's go!</a>
   </div>
 </div>
 ```

@@ -1,0 +1,64 @@
+---
+title: "Activity 29: Player Point of View"
+subtitle: "Guide students through different examples of POVs when gaming, and the importance it may have on the story."
+grades: All grades
+time_required: "45 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+toc: true 
+page-layout: full
+---
+
+## Description
+
+In this activity, students will learn about different camera angles in video games and how it changes the way a player intrepets a situation. Students will look at a few examples and explain how they feel before testing their knowledge on the different camera POVs.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- Shared Projector  (to show a few example pictures)
+- IPADs
+- [Kahoot Assessment](TBD)
+- [POV Explanation Reference](https://medium.com/@staskas/how-does-camera-perspective-affect-player-experience-and-feelings-b187e6824f7c)  *{Optional}*
+
+## Example Pictures
+
+![First Person](/images/29activity_1st.jpeg)
+![Third Person](/images/29activity_3rdFront.avif)
+![Split Screen](/images/29activity_Split.jpg)
+![World](/images/29activity_World.avif)
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- Introduce to the students that games have different ways they present. Allow the students to give example games and if they know what perspective they play the game through.
+- Dive deeper into each of the above perspectives, allowing the students to guess what POV that is. Ask the students to divulge how each of these perspectives make them feel
+
+#### Instructions
+
+- Split the students into small groups and pass out the pre set up IPADs. Students may work individually if there are enough IPADs.
+- Run through the Kahoot with the students. 
+- 🔍 *Focus Skills*: listening, game mechanics
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- What is an example of a game camera POV?
+- How does a different POV change a game?
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of character POVs in game design. By talking through examples and taking a Kahoot quiz, students apply their knowledge in a practical and interactive manner, reinforcing their understanding of character movement.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Identify at least two types of POV
+- Explain how these two types differ to the game design and as a user

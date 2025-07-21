@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Activity 5: Debugging – Code with Chompers</title>
+<title>Activity 28: Character Movement Basics – Code with Chompers</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -158,8 +158,8 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#description" id="toc-description" class="nav-link active" data-scroll-target="#description">Description</a></li>
   <li><a href="#time-required" id="toc-time-required" class="nav-link" data-scroll-target="#time-required">Time Required</a></li>
   <li><a href="#materials-required" id="toc-materials-required" class="nav-link" data-scroll-target="#materials-required">Materials Required</a></li>
-  <li><a href="#steps-to-conduct-the-activity" id="toc-steps-to-conduct-the-activity" class="nav-link" data-scroll-target="#steps-to-conduct-the-activity">Steps to Conduct the Activity</a></li>
-  <li><a href="#set-up" id="toc-set-up" class="nav-link" data-scroll-target="#set-up">Set-Up</a>
+  <li><a href="#wasd-and-jump-code-template" id="toc-wasd-and-jump-code-template" class="nav-link" data-scroll-target="#wasd-and-jump-code-template">WASD and Jump Code Template</a></li>
+  <li><a href="#steps-to-conduct-the-activity" id="toc-steps-to-conduct-the-activity" class="nav-link" data-scroll-target="#steps-to-conduct-the-activity">Steps to Conduct the Activity</a>
   <ul class="collapse">
   <li><a href="#difficulty-breakdown" id="toc-difficulty-breakdown" class="nav-link" data-scroll-target="#difficulty-breakdown">Difficulty Breakdown</a></li>
   </ul></li>
@@ -174,13 +174,17 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Activity 5: Debugging</h1>
-<p class="subtitle lead">Teaching students to identify and fix bugs in code through hands-on activities.</p>
+<h1 class="title">Activity 28: Character Movement Basics</h1>
+<p class="subtitle lead">Guide students through creating a sample character movement.</p>
   <div class="quarto-categories">
+    <div class="quarto-category">Grade: Kindergarten</div>
+    <div class="quarto-category">Grade: 1</div>
+    <div class="quarto-category">Grade: 2</div>
+    <div class="quarto-category">Grade: 3</div>
     <div class="quarto-category">Grade: 4</div>
     <div class="quarto-category">Grade: 5</div>
     <div class="quarto-category">Grade: 6</div>
-    <div class="quarto-category">Time: 30 Minutes</div>
+    <div class="quarto-category">Time: 45 Minutes</div>
   </div>
   </div>
 
@@ -200,7 +204,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="description" class="level2">
 <h2 class="anchored" data-anchor-id="description">Description</h2>
-<p>In this activity, students will learn about debugging and the various manifestations of bugs in code. Students will learn how to identify a bug’s presence, methods of resolving it, and distinguishing between different error outputs.</p>
+<p>In this activity, students will learn about different styles of character movements in a video game. Students will watch two short examples, before learning how to code a simple WASD and Jump movement style using Scratch.</p>
 </section>
 <section id="time-required" class="level2">
 <h2 class="anchored" data-anchor-id="time-required">Time Required</h2>
@@ -211,86 +215,72 @@ ul.task-list li input[type="checkbox"] {
 <section id="materials-required" class="level2">
 <h2 class="anchored" data-anchor-id="materials-required">Materials Required</h2>
 <ul>
-<li>Debugging Video: <a href="https://www.youtube.com/watch?v=__y3BCwDG7M">Bugs!</a></li>
-<li>Debugging Sheet: <a href="https://docs.google.com/document/d/1L86-WB-uE4dBrraLybJxo6_hLuJ3e03cSk8X9bEUcEM/edit">Debugging Sheet</a></li>
-<li>Debugging Answer Sheet: <a href="https://docs.google.com/document/d/1pG_6DiegHk-gZd8qHC5B6bFUzoRRnpDrWdM2Ba9alVo/edit">Answer Sheet</a></li>
-<li>Pencil</li>
+<li>Shared Projector</li>
+<li><a href="https://scratch.mit.edu/projects/702435254/">Movement Style Ex. #1</a></li>
+<li><a href="https://scratch.mit.edu/projects/492578456/">Movement Style Ex. #2</a></li>
+<li><a href="https://scratch.mit.edu/projects/editor/?tutorial=getStarted">Scratch.org’s Create</a></li>
+<li>IPADs</li>
 </ul>
+</section>
+<section id="wasd-and-jump-code-template" class="level2">
+<h2 class="anchored" data-anchor-id="wasd-and-jump-code-template">WASD and Jump Code Template</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../..\images/28activity_CodeReference.png" class="img-fluid figure-img"></p>
+<figcaption>WASD/Jump Code</figcaption>
+</figure>
+</div>
 </section>
 <section id="steps-to-conduct-the-activity" class="level2">
 <h2 class="anchored" data-anchor-id="steps-to-conduct-the-activity">Steps to Conduct the Activity</h2>
-</section>
-<section id="set-up" class="level2">
-<h2 class="anchored" data-anchor-id="set-up">Set-Up</h2>
-<ul>
-<li>Print out debugging sheet before activity starts or during debugging video (if you are running activity with someone else).</li>
-<li>Each student should recieve a copy of the debugging sheet, a pencil, and a</li>
-</ul>
 <section id="difficulty-breakdown" class="level3">
 <h3 class="anchored" data-anchor-id="difficulty-breakdown">Difficulty Breakdown</h3>
 <section id="introduction" class="level4">
 <h4 class="anchored" data-anchor-id="introduction">Introduction</h4>
 <ul>
-<li>Gather all the students together and show them the debugging video.</li>
-<li><ul>
-<li>After the video is done, ask them about what they think bugs in coding will look like. Can bugs show up in differeny ways, or just one?</li>
-</ul></li>
-<li>Explain to students the different types of errors they may encounter when learning to code.
-<ul>
-<li><strong>Syntax Errors</strong>:
-<ul>
-<li>due to grammatical or indentation mistakes in the code, which prevents the program from running correctly</li>
-<li>similar to missspellings or improper punctuation in written language</li>
-</ul></li>
-<li><strong>Logic Errors</strong>:
-<ul>
-<li>when lines of code, while syntactically correct, do not produce the intended outcome</li>
-<li>caused by flawed logic that the computer cannot interpret as intended, leading to incorrect or unexpected results</li>
-</ul></li>
-</ul></li>
+<li>Introduce to the students that there are different game movement styles. Allow the students to give examples, such as only forward, WASD, jumping, etc. Show the students the examples.</li>
+<li>Split the students into small groups and pass out the pre set up IPADs. Students may work individually if there are enough IPADs.</li>
 </ul>
 </section>
 <section id="beginner" class="level4">
 <h4 class="anchored" data-anchor-id="beginner">Beginner</h4>
 <ul>
-<li>Hand out a copy of the Debugging Sheet to every student. Make sure they recieve the ‘Identifying Bugs’ side first.</li>
-<li>Usng the written examples, explain to students that any instructions that do not make sense or are grammatically incorrect can be identified as bugs.</li>
-<li>Flip the sheet over. Have students try to identify if the bugs on this side would be syntax errors or logic errors.</li>
-<li>🔍 <em>Focus Skills</em>: critical thinking, categorization</li>
+<li>Guide the students through building the code featured above, focusing solely on the WASD movements.</li>
+<li>Allow the students to guess what comes next while building the code.</li>
+<li>🔍 <em>Focus Skills</em>: instruction following, block coding, character movements</li>
 </ul>
 </section>
 <section id="intermediate" class="level4">
 <h4 class="anchored" data-anchor-id="intermediate">Intermediate</h4>
 <ul>
-<li>Hand out a copy of the Debugging Sheet to every student. Make sure they recieve the ‘Identifying Bugs’ side first.</li>
-<li>Using the written examples, explain to students that any instructions that do not make sense or are grammatically incorrect can be identified as bugs.</li>
-<li>Flip the sheet over. Have students try to identify the locations of bugs and if they would be syntax errors or logic errors.</li>
-<li>Have students create instructions that contain Bugs, no Bugs, syntax errors, and logic errors.</li>
-<li>🔍 <em>Focus Skills</em>: critical thinking, categorization, error handling</li>
+<li>Guide the students through building the WASD code above.</li>
+<li>Allow the students to guess what comes next while building the code.</li>
+<li>Introduce the Jump portion of the code. Given what has already been built, what do we probably need for this section?</li>
+<li>Guide students through the remainder of the code.</li>
+<li>🔍 <em>Focus Skills</em>: instruction following, block coding, character movements</li>
 </ul>
 </section>
 </section>
 </section>
 <section id="discussion-reflection" class="level2">
 <h2 class="anchored" data-anchor-id="discussion-reflection">Discussion &amp; Reflection</h2>
-<p>After the activity has been completed, gather the class for a quick debrief. We can:</p>
+<p>After the activity has been completed, gather the class for a quick debrief. We can ask:</p>
 <ul>
-<li>Explain the similarity between actual code and the activity, emphasizing how debugging requires the skills practiced in the activity.</li>
-<li>Ask students if they found the activity challenging and what new concepts they learned.</li>
-<li>Inquire which was harder: identifying bugs or categorizing them.</li>
+<li>What are some different ways video game characters can move?</li>
+<li>Why is it important to test our code as we work?</li>
 </ul>
 </section>
 <section id="wrap-up" class="level2">
 <h2 class="anchored" data-anchor-id="wrap-up">Wrap-Up</h2>
-<p>This activity introduces students to the basics of debugging. It highlights common errors in code and methods for addressing them. Engagement in these activities can better prepare students for coding by providing a solid understanding of how to handle errors.</p>
+<p>This activity aims to enhance students’ understanding of character movement in game design. By collectively coding an example movement style, students apply their knowledge in a practical and interactive manner, reinforcing their understanding of character movement.</p>
 </section>
 <section id="learning-outcomes" class="level2">
 <h2 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h2>
 <p>By the end of this activity, students should be able to:</p>
 <ul>
-<li>Understand the difference between syntax and logic errors.</li>
-<li>Be able to identify bugs in code and correctly categorize them as syntax or logic errors.</li>
-<li>Simulate real-life problem-solving by providing the framework of debugging code and handling errors.</li>
+<li>Give an example of character movement style</li>
+<li>Explain the process we used to code our movement</li>
+<li>Explain why you test/debug code in stages, rather than all at once</li>
 </ul>
 
 

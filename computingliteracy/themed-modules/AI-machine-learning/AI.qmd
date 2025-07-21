@@ -6,6 +6,7 @@ toc: true
 
 <div class="hero-section">
   <h1 class="main-title">AI & Machine Learning</h1>
+  <p class="subtitle">Welcome to the AI & Machine Learning 6-Week lesson module! Below you'll find the week-by-week activity breakdown for this lesson module. </p>
 </div>
 
 <hr class="section-divider">

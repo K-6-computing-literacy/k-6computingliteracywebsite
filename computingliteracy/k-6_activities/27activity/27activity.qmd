@@ -1,0 +1,67 @@
+---
+title: "Activity 27: Build Your Environment"
+subtitle: "Guide students through creating a game environment, emphasing the different aspects that make a  scene realistic."
+grades: All grades
+time_required: "45 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+toc: true 
+page-layout: full
+---
+
+## Description
+
+In this activity, students will learn about the different aspects that make up a background and use that to make their own. Students will design the landscape, color scheme, and story behind an environment, learning how different combinations would work together in different types of games.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- Shared Projector (to show a few example pictures)
+- Blank Paper
+- Crayons or colored pencils
+- "Things to Include" Sheet
+
+## Example Pictures
+
+![Beach](/images/27activity_Beach.webp)
+![Office](/images/27activity_Office.jpg)
+![Abandoned](/images/27activity_Abandoned.avif)
+
+## Steps to Conduct the Activity
+
+### Difficulty Breakdown
+
+#### Introduction
+
+- Introduce to the students that game backgrounds have different things that make them realistic. Allow the students to give examples, such as plant and animal life, physical design, color pallete, etc.
+- Show students the example pictures. What do we notice about this environment?
+- Pass out copies of the "Things to Include" sheet and explain that the students will now make their own game background. Using the sheet as a reference, explain to the students that they should create a school-appropiate background that they will present to the group. We will then try to guess what kind of game this scene could belong to.
+- Pass out the blank paper and drawing supplies.
+
+#### Instructions
+
+- Give the students time to draw their backgrounds. Walk around and help as needed.
+- After 15-20 minutes, regroup the students.
+- One by one, allow the students to present their backgrounds and have the group guess what type of game it could belong to.
+- 🔍 *Focus Skills*: creativity, design characteristics, visual communication
+
+## Discussion & Reflection
+
+After the activity has been completed, gather the class for a quick debrief. We can ask:
+
+- Did we see more than one of the same scene or game type?
+- What aspects make a background seem "safe" or "calm"? What about "scary"?
+- Can one color create two different tones? (Ex: blue being a calm sky vs. a dark thunderstorm)
+
+## Wrap-Up
+
+This activity aims to enhance students' understanding of background design and how different elements work together to make a realistic environment. By creating and sharing their backgrounds, students apply their knowledge in a practical and interactive manner, reinforcing their understanding of design and interpretation.
+
+## Learning Outcomes
+
+By the end of this activity, students should be able to:
+
+- Understand that background designs are important to building a story
+- Interpret design choices within given context
