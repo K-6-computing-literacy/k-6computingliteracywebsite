@@ -10,3 +10,25 @@ toc: false
 </div>
 
 <hr class="section-divider">
+
+<div class="info-section">
+  <div class="info-image">
+  <img class="image" src="/images/2.jpeg" alt="Picture of stidents (sittin in a circle) being read to by an Outreach Fellow.">
+  </div>
+  <div class="info-content">
+  <h2 class="info-title">Beginner</h2>
+  <p class="info-subtitle">An introductory level course on computer science.</p>
+  <a href="beginner/beginner.qmd" class="button">Let's Go!</a>
+  </div>
+</div>
+
+<div class="info-section-reverse">
+  <div class="info-image">
+  <img class="image" src="/images/7.jpg" alt="Picture of one of the students (standing) demonstrating using an IPAD to control a robot.">
+  </div>
+  <div class="info-content">
+  <h2 class="info-title">Intermediate</h2>
+  <p class="info-subtitle">A course on computer science for those with a little prior knowledge or experience.</p>
+  <a href="intermediate/intermediate.qmd" class="button">Let's Go!</a>
+  </div>
+</div>

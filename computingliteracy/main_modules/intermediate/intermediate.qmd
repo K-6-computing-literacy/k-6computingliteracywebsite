@@ -1,0 +1,57 @@
+---
+title: ""
+page-layout: full
+toc: true
+---
+
+<div class="hero-section">
+  <h1 class="main-title">Intermediate</h1>
+  <p class="subtitle">Welcome to the Intermediate 6-Week lesson module! Below you'll find the week-by-week activity breakdown for this lesson module. </p>
+</div>
+
+<hr class="section-divider">
+
+
+```{=html}
+<div class="curriculum-section">
+  <div class="curriculum-box">
+      <h3 class="info-title">Week 1: Binary Balloons</h3>
+      <p class="info-subtitle">Learn how a computer reads information using binary code.</p>
+      <a href="/k-6_activities/02activity/02activity.qmd" class="button">Let's go!</a>
+  </div>
+
+  <div class="curriculum-box">
+      <h3 class="info-title">Week 2: If-Else-Elif</h3>
+      <p class="info-subtitle">Learn conditional statements.</p>
+      <a href="/k-6_activities/01activity/01activity.qmd" class="button">Let's go!</a>
+  </div>
+</div>
+
+<div class="curriculum-section">
+  <div class="curriculum-box">
+      <h3 class="info-title">Week 3: Maze Navigation</h3>
+      <p class="info-subtitle">Navigate a maze with your robot companion.</p>
+      <a href="/k-6_activities/07activity/07activity.qmd" class="button">Let's go!</a>
+  </div>
+
+  <div class="curriculum-box">
+      <h3 class="info-title">Week 4: Obstacles & Block Code</h3>
+      <p class="info-subtitle">Create and navigate obstacles using block code and conditional statements.</p>
+      <a href="/k-6_activities/04activity/04activity.qmd" class="button">Let's go!</a>
+  </div>
+</div>
+
+<div class="curriculum-section">
+  <div class="curriculum-box">
+      <h3 class="info-title">Week 5: Manual Control & Attachments</h3>
+      <p class="info-subtitle">Drive your robots to complete challenge cards.</p>
+      <a href="/k-6_activities/16activity/16activity.qmd" class="button">Let's go!</a>
+  </div>
+
+  <div class="curriculum-box">
+      <h3 class="info-title">Week 6: Dash Double Challenge</h3>
+      <p class="info-subtitle">Program Dash to complete two different missions.</p>
+      <a href="/k-6_activities/15activity/15activity.qmd" class="button">Let's go!</a>
+  </div>
+</div>
+```
