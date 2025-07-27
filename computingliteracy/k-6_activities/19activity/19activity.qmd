@@ -19,7 +19,7 @@ In this activity, students will practice internet safety by keeping their digita
 ## Materials Required
 
 - [Online Web Module](https://cyber.org/find-curricula/personally-identifiable-information-keys-cybersecurity)
-- Wooden blocks
+- Small obstacles
 - Papers with PII examples (similar to Activty #8)
 - Programmable & Drivable Robot
 - IPAD

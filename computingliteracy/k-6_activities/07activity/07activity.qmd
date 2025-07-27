@@ -19,7 +19,7 @@ In this activity, students will be introduced to the concepts of computation thi
 ## Materials Required
 
 - A map (An example is shown below)
-- A small car figure or token
+- Driveable Robot
 - A set of command cards (e.g., move forward, turn left, turn right)
 
 ## Example Map

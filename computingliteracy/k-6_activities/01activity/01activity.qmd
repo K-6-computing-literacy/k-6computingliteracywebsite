@@ -18,7 +18,7 @@ In this activity, students will learn the fundamentals of `if-else-if else (elif
 
 ## Materials Required
 
-- Model car
+- Drivable robot
 - Two-/three-way road setup. Picture of demo map is shown below.
 - Barricade (mini yellow cones)
 - Programmable & Drivable Robot

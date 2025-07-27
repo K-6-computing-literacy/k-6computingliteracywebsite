@@ -19,7 +19,7 @@ In this activity, students will practice internet safety by identifying warning 
 ## Materials Required
 
 - [Online Web Module](https://training.knowbe4.com/modstore/view/0654978b-22b8-4b91-808d-af71060a8692)
-- Wooden blocks
+- Small obstacles
 - Papers with common phishing terminology (similar to Activty #8)
 - Programmable & Drivable Robot
 - IPAD

@@ -19,7 +19,7 @@ In this activity, students will practice internet safety by identifying safe and
 ## Materials Required
 
 - [Internet Safety Cards](/images/08activity.jpg)
-- Wooden blocks
+- Small obstacles
 - Programmable & Drivable Robot
 - IPAD
 

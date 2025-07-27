@@ -18,6 +18,7 @@ In this activity, students will learn about the importance of creating strong pa
 
 ## Materials Required
 
+- IPADs
 - Whiteboard or digital presentation for demonstrating concepts
 - Paper and pencils for password creation practice
 - Printouts or projector for displaying examples of strong and weak passwords
