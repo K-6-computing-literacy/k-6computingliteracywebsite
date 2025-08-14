@@ -30,6 +30,8 @@ website:
         href: "about/index.qmd"
       - text: "Outreach Guide"
         href: "technical-leader-guide/index.qmd"
+      - text: "Presentation"
+        href: "presentation/index.qmd"
       - text: "All K-6 Activities"
         href: "k-6_activities/index.qmd"
       - text: "Main Modules"

@@ -1,0 +1,16 @@
+---
+title: "Code With Chompers: Bridging the Gap of Computer Science Literacy and Accessibility"
+author: "Ainslee Plesko “28, Advisor: Professor Janyl Jumadinova"
+subtitle: "Allegheny College: Department of Computer and Information Science"
+format: revealjs
+---
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Going to sleep
+
+- Get in bed
+- Count sheep
