@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Ainslee Plesko ’28, Advisor: Prof.&nbsp;Janyl Jumadinova">
-<meta name="description" content="Bridging the Gap of Computer Science Literacy and Accessibility">
 
-<title>Code With Chompers: – Code with Chompers</title>
+<title>Presentation – Code with Chompers</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/logo.svg" rel="icon" type="image/svg+xml">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,10 +68,68 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <!-- settings.html -->
 
 <script src="../_includes/settings.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -158,31 +216,19 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Rmlyc3Q=">First <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Code With Chompers:</h1>
-<p class="subtitle lead">Allegheny College, Department of Computer and Information Science</p>
+<h1 class="title">Presentation</h1>
 </div>
 
-<div>
-  <div class="description">
-    Bridging the Gap of Computer Science Literacy and Accessibility
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Ainslee Plesko ’28, Advisor: Prof.&nbsp;Janyl Jumadinova </p>
-          </div>
-  </div>
     
   
     
@@ -193,21 +239,58 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="introduction" class="level2">
-<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<div class="fragment">
+<p>Here you’ll find a presentation about Code With Chompers at Allegheny College.<br>
+We use this space to share:</p>
 <ul>
-<li><strong>Goal:</strong> Build a Text Error Correction System</li>
-<li><strong>Input:</strong> Original (un-mutated) text file</li>
-<li><strong>Output:</strong> Encoded text that can detect errors after mutation/transmission</li>
-<li><strong>Motivation:</strong> Ensure data integrity over unreliable channels</li>
+<li>Background knowledge on this project and its importance</li>
+<li>A summarization of results for the Spring 2025 session</li>
+<li>A summarization of results for the Summer 2025 session</li>
+<li>Work to be completed in the future</li>
 </ul>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Rmlyc3Q=" data-listing-date-sort="1757390400000" data-listing-file-modified-sort="1757990745374" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2">
+<div class="thumbnail">
+<p><a href="../presentation/slides/index.html" class="no-external"></a></p><a href="../presentation/slides/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../presentation/slides/index.html" class="no-external"></a></p>
 </div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../presentation/slides/index.html" class="no-external">TBD</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../presentation/slides/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Rmlyc3Q='); return false;">
+First
+</div>
+</div>
+<div class="listing-description">
+<a href="../presentation/slides/index.html" class="no-external">TBD.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../presentation/slides/index.html" class="no-external">
+<div class="listing-date">
+Sep 9, 2025
+</div>
+<div class="listing-author">
+Ainslee Plesko
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,4 +1,6 @@
 {
   "listing": "/presentation/index.html",
-  "items": []
+  "items": [
+    "/presentation/slides/index.html"
+  ]
 }
