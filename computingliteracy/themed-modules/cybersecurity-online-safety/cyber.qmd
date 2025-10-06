@@ -15,7 +15,7 @@ toc: true
   <div class="curriculum-box">
       <h3 class="info-title">Week 1: Internet Safety Routes</h3>
       <p class="info-subtitle">Learn about safe and unsafe actions online. </p>
-      <a href="/k-6_activities/08activity/activity08.qmd" class="button">Let's go!</a>
+      <a href="/k-6_activities/08activity/08activity.qmd" class="button">Let's go!</a>
   </div>
 
   <div class="curriculum-box">
