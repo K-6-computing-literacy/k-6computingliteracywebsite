@@ -18,58 +18,45 @@ In this activity, students will identify, analyze, and create simple patterns us
 
 ## Materials Needed
 
-- Paper and colored pencils/crayons
-- Pattern Materials (blocks or cut-out shapes)
+- [Pattern Flashcards](https://docs.google.com/document/d/1V3JFvTcGnzuxr5h--GWg7XKLVxvFlaQkc-AeubvxrNM/edit?tab=t.0)
+- Something to write with
+- IPADs preset to [Pattern Coding Activity](https://blockly.games/)
 
 ##  Steps to Conduct the Activity
 
 ### Set-Up
 
-- Split students into small roups. Have them spread out throughout the room, ensuring each group has enough room to run the activity.
-- Each group should recieve one paper, some colored pencils or crayons, and some pattern materials. 
+- As a group, introduce the idea of patterns and walk through an example.
+- Split students into small groups. Have them spread out throughout the room, ensuring each group has enough room to run the activity.
+- Each group should recieve one set of flashcards, and a writing utensil. IPADs will be passed out later in the activity.
 
 ### Difficulty Breakdown
 
-#### Introduction
-- Begin with a brief discussion about patterns, explaining that patterns are sequences that repeat in a certain order.
-- Show examples of simple patterns using shapes, colors, and numbers:
-  - Shapes: `⬛⬛🔴⬛⬛🔴…` (Two squares, one circle, repeat)
-  - Colors: `🔵🟢🔵🟢🔵… `(Blue, green, repeat)
-  - Numbers: `1, 2, 1, 2, 1, 2…` (Alternating 1 and 2)
+#### Instructions
 
-#### Beginner
-- Provide students with sets of simple sequences and ask them to identify the pattern. Examples:
-  - Shapes: `🔺🔺⚫️🔺🔺⚫️…`
-  - Colors: `🟡🟡🟠🟡🟡🟠…`
-  - Numbers: `3, 3, 6, 3, 3, 6…`
+- Provide students with sets of simple sequences and ask them to identify the pattern
+  - Examples:
+    - Shapes: `🔺🔺⚫️🔺🔺⚫️…`
+    - Colors: `🟡🟡🟠🟡🟡🟠…`
+    - Numbers: `3, 3, 6, 3, 3, 6…`
 - Once students can identify the pattern, challenge them to continue the sequence by adding the next few elements.
   - Example: Sequence: `🔵🔵🟢🔵🔵🟢…` (They add 🔵🔵🟢 next)
-- Instruct students to create their own simple patterns using shapes, colors, or numbers on paper. Encourage them to share their patterns with a partner and see if their partner can identify and extend the pattern.
-- 🔍 *Focus Skills*: critical thinking, problem-solving, pattern recognition
-
-#### Intermediate
-- Provide students with sets of simple sequences and ask them to identify the pattern. Examples:
-  - Shapes: `🔺🔺⚫️🔺🔺⚫️…`
-  - Colors: `🟡🟡🟠🟡🟡🟠…`
-  - Numbers: `3, 3, 6, 3, 3, 6…`
-- Once students can identify the pattern, challenge them to continue the sequence by adding the next few elements.
-  - Example: Sequence: `🔵🔵🟢🔵🔵🟢…` (They add 🔵🔵🟢 next)
-- Instruct students to create their own simple patterns using shapes, colors, or numbers on paper. Encourage them to share their patterns with a partner and see if their partner can identify and extend the pattern.
-- If students complete all the previous challenges, create a 'pattern puzzle' where some elements from the sequence are missing. Have the students attempt to fill in the blanks.
-  - Example: `🟣, 🟣, 🟤, __, __, __, 🟣, 🟣, 🟤` (They fill in with `🟣, 🟣, 🟤`)
-  - Example: `🔺⚫️, __, ⚫️, 🔺, __` (They fill in with `🔺,⚫️`)
+- Once all students have completed the majority of the pattern flashcards, direct their
+attention to their IPADs. Collect the flashcards while they are getting set up.
+- Have students work on the modules titled "Puzzle" and "Maze" until the end of the class period.
 - 🔍 *Focus Skills*: critical thinking, problem-solving, pattern recognition
 
 ## Discussion & Reflection
 
 After the activity has been completed, gather the class for a quick debrief. We can:
 
-- Have students display their patterns and share them with the class to foster pride in their work and appreciation for the diversity of patterns created.
-- Ask if there were any patterns they had trouble completing. If so, which ones and why?
+- Were there any pattern flashcards that were tricky to solve?
+- Were there any coded pattern activities that were tricky to solve?
+- Which ones, and why?
 
 ## Wrap-Up
 
-Participating in this activity will enhance students' critical thinking. By progressively increasing the difficulty of patterns, students will utilize problem-solving principles and improve their recognition skills. Encouraging students to create and present their patterns will invite them to feel prideful in their work.
+Participating in this activity will enhance students' critical thinking. By progressively increasing the difficulty of patterns, students will utilize problem-solving principles and improve their recognition skills.
 
 ## Learning Outcomes
 
