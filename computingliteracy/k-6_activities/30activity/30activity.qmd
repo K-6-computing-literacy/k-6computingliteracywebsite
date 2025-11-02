@@ -1,0 +1,81 @@
+---
+title: "Activity 30: BeeBot Garbage Collection"
+subtitle: "Teaching manual control and sequencing with BeeBot robots through a fun garbage collection challenge."
+grades: Kindergarten - 1st Grade
+time_required: "30 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Time: 30 Minutes"]
+toc: true
+page-layout: full
+---
+
+## Description
+
+Students program a BeeBot robot to collect "garbage" from different locations on a map using directional buttons. This hands-on activity teaches **sequencing**, **manual control**, and how computers follow step-by-step commands in order.
+
+## Time Required
+
+- **Estimated Time**: 30-45 minutes
+
+## Materials Required
+
+- **BeeBot robots** (1 per group of 2-3 students)
+- **BeeBot garbage collection attachment** (small basket or container that attaches to the top)
+- **Map/Grid mat** (can be printed or drawn on poster board - 4x4 or 5x5 grid)
+- **"Garbage" items** (small plastic pieces, pom-poms, blocks, or printed paper trash)
+- **Starting point marker** (green square or sticker)
+- **"Trash can" marker** (blue square or recycling bin image)
+- Optional: Colored tape to create grid lines on the floor
+
+## About BeeBot Robots
+
+BeeBot is a bee-shaped robot with directional buttons: Forward (⬆️), Backward (⬇️), Left (⬅️), Right (➡️), Go (green), and Clear (X). It remembers up to 40 commands in sequence.
+
+## Connection to Computing
+
+This activity teaches: **Sequencing** (order matters), **Algorithms** (step-by-step plans), **Debugging** (testing and fixing), **Manual Control** (programming each movement), and **Input/Output** (button presses create actions) - the same concepts used in computers, tablets, and video games.
+
+## Map Setup
+
+Place a green START square, 3-5 "garbage" pieces, and a blue TRASH CAN square at different locations on the map.
+
+## Steps to Conduct the Activity
+
+### Set-Up
+
+Divide students into groups of 2-3. Give each group a BeeBot with garbage attachment and a map with 3 garbage pieces. Demonstrate the buttons and how BeeBot remembers commands in order (like a recipe). Show example: Forward, Forward, Go → moves 2 spaces.
+
+### Difficulty Breakdown
+
+#### Beginner (Kindergarten)
+
+**Challenge 1:** Collect one piece 2-3 spaces away. Plan, press buttons, test, and debug if needed.  
+**Challenge 2:** Collect garbage and return to trash can. Practice reverse planning.  
+**Challenge 3:** Collect 2-3 pieces one by one, breaking the problem into smaller steps.  
+🔍 *Focus Skills*: counting, sequencing, trial and error
+
+#### Intermediate (1st Grade)
+
+**Challenge 1:** Collect 3 pieces using the FEWEST button presses. Draw route first, then test.  
+**Challenge 2:** Add obstacles between START and garbage. Plan around them using turns.  
+**Challenge 3:** Team race - who can collect all garbage first? Discuss planning vs. rushing.  
+🔍 *Focus Skills*: optimization, spatial reasoning, strategic thinking
+
+## Discussion & Reflection
+
+Gather students for discussion:
+
+- What happened when BeeBot didn't go where you wanted? How did you fix it?
+- What was the hardest/most fun part?
+- How is BeeBot like a computer? What else follows step-by-step instructions?
+- Why is order important when giving commands?
+
+## Learning Outcomes
+
+Students will be able to:
+
+- Use directional commands to control BeeBot
+- Create and test command sequences
+- Understand that order matters in programming
+- Debug by testing and fixing errors
+- Plan movement across a grid
+- Work collaboratively to solve problems
