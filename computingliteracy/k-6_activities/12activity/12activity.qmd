@@ -1,6 +1,6 @@
 ---
-title: "Activity 12: Facts and Questions"
-subtitle: "Enhancing Computational Thinking through Interactive Coding Challenges."
+title: "Activity 12: Prompt Engineering with Dash Robots"
+subtitle: "Learning Clear Instructions through Block Coding and Robotics."
 grades: All grades
 time_required: "1 hour"
 categories: ["Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
@@ -10,7 +10,7 @@ page-layout: full
 
 ## Description
 
-Students will engage in an activity designed to introduce them to the fundamentals of prompt engineering. Prompt engineering involves creating well-structured inputs, or prompts, that effectively guide generative AI models to produce desired outputs. Students will be presented with specific facts on various topics and tasked with matching them to corresponding questions. These questions will range from vague, incomplete inquiries to more precise, well-defined ones that align closely with the provided facts. Following this, students will create their own facts and formulate both vague and specific questions based on those facts. Other students will then review these questions and determine whether they are vague or specific. This exercise encourages critical thinking and reinforces the importance of clarity in question formulation.
+Students will learn the fundamentals of prompt engineering through hands-on coding with Dash robots and Blockly. Prompt engineering involves creating well-structured instructions that effectively guide systems (like AI or robots) to produce desired outcomes. Students will practice giving both vague and specific instructions to their Dash robots using block coding, observing how the clarity and precision of their "prompts" (code blocks) directly affect the robot's behavior. By comparing vague instructions (like "move") with specific ones (like "move forward 30 cm at speed 50%"), students will understand why clear, detailed prompts are essential in technology and AI interactions.
 
 ## Time Required
 
@@ -18,36 +18,97 @@ Students will engage in an activity designed to introduce them to the fundamenta
 
 ## Materials required
 
-- [PROMPT ENGINNERING SHEET](https://docs.google.com/document/d/1mJAJydQ2olyK8WIuekeiCnQtRRAY-yUmrFYf052cTBU/edit)
-- Pencil 
+- Dash robots (1 per pair or small group)
+- iPads/tablets with Blockly app installed
+- Open space for robot movement 
 
 ## Steps to Conduct the Activity
 
-### Set-Up
+### Set-Up (5 minutes)
 
-- Pass out the engineering sheet.
+- Divide students into pairs or small groups of 3
+- Distribute one Dash robot and one iPad/tablet per group
+- Have students open the Blockly app and connect to their robot
+- Designate a clear area for robot movement
 
-### Instructions
+### Part 1: Understanding Vague vs. Specific Instructions (15 minutes)
 
-- Students should first complete the prompt enginnering sheet.
-- Direct the students to create 2 facts based on one a topic of their choosing, then prompt then to create two question for each fact one being vauge the other being specific.
-- Pair students in groups of two to switch sheets to ideinfity which question are vauge and specific. 
-- Keep switching groups until students have rotated at least three times. 
+**Teacher demonstrates:**
 
-## Discussion & Reflection
+1. Show a VAGUE block code example on screen:
+   - Single "Move" block with no parameters
+   - Ask: "What will the robot do? How far? How fast?"
 
-After the activity has been completed, gather the class for a quick debrief. We can ask:
+2. Show a SPECIFIC block code example:
+   - "Move forward 30 cm at 50% speed"
+   - Ask: "Now what will happen? Is this clearer?"
 
-- What part of the acitivty was the hardest?
-- Did you find identifying question or creating them to be harder?
+3. Explain: Just like giving instructions to AI, giving instructions to robots requires clarity and detail!
+
+### Part 2: Vague Instructions Challenge (15 minutes)
+
+**Students work in roles within their group:**
+
+- **Role 1 - Coder:** One student creates a short program (3-5 blocks) with intentionally vague or minimal instructions
+  - Examples: 
+    - "Move" without direction or distance
+    - "Turn" without specifying degrees
+    - "Make sound" without choosing which sound
+- **Role 2 - Predictor:** Another student predicts what the robot will do without seeing the code details
+- **Role 3 - Observer:** The group runs the program and observes: "What happened? Was it predictable? What was unclear?"
+- **Discuss together:** Why did the vague instructions cause confusion or unexpected results?
+- **Rotate roles** and repeat so each student experiences being the coder
+
+### Part 3: Specific Instructions Challenge (20 minutes)
+
+**Students take turns creating specific code:**
+
+- Teacher assigns a simple task: "Make Dash draw a square path on the floor"
+- **Role 1 - Lead Coder:** One student creates SPECIFIC block code with:
+  - Exact distances (e.g., "Move forward 40 cm")
+  - Exact angles (e.g., "Turn right 90 degrees")
+  - Speeds and durations
+- **Role 2 - Code Reviewer:** Another student checks the code before running - "Is everything specific? What might go wrong?"
+- **Role 3 - Tester:** Student runs the program and measures success
+- **Group discussion:** Did the robot complete the square? What needs adjustment?
+- Groups refine their programs together, then **rotate roles** and try a new shape (triangle, rectangle, or letter)
+
+### Part 4: Prompt Writing Challenge (5 minutes)
+
+**Groups practice giving verbal "prompts":**
+
+- **Role 1 - Prompt Writer:** One student creates a verbal task description without using their hands or pointing (e.g., "Make Dash drive in a triangle" or "Make Dash spin twice and beep")
+- **Role 2 - Coder:** Another student tries to code the task using ONLY the verbal description
+- **Role 3 - Evaluator:** Third student judges if the prompt was clear enough - what details were missing?
+- **Group reflection:** Compare the final robot behavior to what the prompt writer intended. How could the prompt be more specific?
+- Teacher selects 2-3 groups to share their best "specific prompt" examples with the class 
+
+## Discussion & Reflection (5 minutes)
+
+After the activity has been completed, gather the class for a quick debrief. Ask:
+
+- **What happened when your instructions were vague?** (Robot didn't do what you expected, results varied)
+- **How did adding specific details help?** (Robot followed instructions exactly)
+- **What's the connection between coding Dash and talking to AI like ChatGPT?** (Both need clear, specific instructions/prompts)
+- **Can you think of times in real life when vague instructions cause problems?** (Asking for help, following recipes, giving directions)
+- **What details did you need to include to make your instructions specific?** (Numbers, directions, speeds, order of actions)
+
+**Key Takeaway:** Just like robots, AI systems work best with clear, detailed prompts. Being specific helps technology understand exactly what you want!
 
 ## Wrap-Up
 
-As advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Introducing students to these concepts at an early age will enhance their understanding of how prompt engineering works and how it connects to their existing curriculum, fostering essential skills for the future of technology and innovation. Requiring students to formulate more specific and detailed questions will enhance their ability to identify and construct clear, precise prompts, an essential skill in prompt engineering. This practice not only deepens their understanding of the subject matter but also strengthens their critical thinking and problem-solving abilities, which are vital for success in the evolving field of AI and technology.
+As advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Today's activity demonstrated that whether you're coding a robot or prompting an AI, the principle is the same: **specificity and clarity lead to better results**. 
+
+By experiencing firsthand how vague block code produces unpredictable robot behavior while specific code produces consistent results, students develop an intuitive understanding of prompt engineering. This hands-on approach connects abstract AI concepts to tangible robot actions, making the importance of detailed instructions immediately visible and memorable.
+
+These skills translate directly to using AI tools: a vague prompt like "tell me about animals" produces generic results, while a specific prompt like "list 5 endangered ocean animals and explain why each is endangered" produces focused, useful information. The computational thinking students practice today—breaking down tasks, specifying parameters, and iterating on instructions—prepares them for future careers in technology, AI development, and beyond.
 
 ## Learning Outcomes
 
 By the end of this activity, students should be able to:
 
-- Create detailed questions or prompts.
-- Review the questions or prompts given by their peers to determine whether or not they are vague or specific.
+- Distinguish between vague and specific instructions through hands-on robot coding
+- Create detailed, specific block code sequences that produce predictable robot behavior
+- Understand that clarity in instructions (prompts) leads to better outcomes in both robotics and AI
+- Apply prompt engineering concepts by testing and refining their code based on robot performance
+- Explain why specific prompts are more effective than vague ones in technology interactions
