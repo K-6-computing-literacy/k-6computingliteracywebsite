@@ -22,7 +22,7 @@ In this activity, students will learn about safe online gaming practices and the
 - [Online Gaming Safety Video](https://www.youtube.com/watch?v=V1b4odH-20g)
 - [Online Gaming Kahoot](https://create.kahoot.it/share/online-gaming-safety-3-5/77c891ac-c62e-4436-b0b9-530f6e2c9c15)
 - [MakeCode Arcade](https://arcade.makecode.com/) - Free online game design platform
-- [Example game](https://codewithchompers.com/k-6_activities/21activity/example.png)
+- [Example game](https://github.com/K-6-computing-literacy/k-6computingliteracywebsite/blob/main/computingliteracy/k-6_activities/21activity/example.png)
 - Computers or tablets with internet access
 - Optional: Projector for sharing student games
 
