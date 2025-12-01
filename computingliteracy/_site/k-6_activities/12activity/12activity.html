@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Activity 12: Facts and Questions – Code with Chompers</title>
+<title>Activity 12: Prompt Engineering with Dash Robots – Code with Chompers</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-86daaaaad7353f9cc0c554efc1dd6d94.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-cfe6cb61a6a347ad968827f13e14cbad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-885cdc8dbaf3e81a426753f4680b473e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,7 +67,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <!-- settings.html -->
-
 <script src="../../_includes/settings.js"></script>
 
 
@@ -160,10 +159,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#materials-required" id="toc-materials-required" class="nav-link" data-scroll-target="#materials-required">Materials required</a></li>
   <li><a href="#steps-to-conduct-the-activity" id="toc-steps-to-conduct-the-activity" class="nav-link" data-scroll-target="#steps-to-conduct-the-activity">Steps to Conduct the Activity</a>
   <ul class="collapse">
-  <li><a href="#set-up" id="toc-set-up" class="nav-link" data-scroll-target="#set-up">Set-Up</a></li>
-  <li><a href="#instructions" id="toc-instructions" class="nav-link" data-scroll-target="#instructions">Instructions</a></li>
+  <li><a href="#set-up-5-minutes" id="toc-set-up-5-minutes" class="nav-link" data-scroll-target="#set-up-5-minutes">Set-Up (5 minutes)</a></li>
+  <li><a href="#part-1-understanding-vague-vs.-specific-instructions-15-minutes" id="toc-part-1-understanding-vague-vs.-specific-instructions-15-minutes" class="nav-link" data-scroll-target="#part-1-understanding-vague-vs.-specific-instructions-15-minutes">Part 1: Understanding Vague vs.&nbsp;Specific Instructions (15 minutes)</a></li>
+  <li><a href="#part-2-vague-instructions-challenge-15-minutes" id="toc-part-2-vague-instructions-challenge-15-minutes" class="nav-link" data-scroll-target="#part-2-vague-instructions-challenge-15-minutes">Part 2: Vague Instructions Challenge (15 minutes)</a></li>
+  <li><a href="#part-3-specific-instructions-challenge-20-minutes" id="toc-part-3-specific-instructions-challenge-20-minutes" class="nav-link" data-scroll-target="#part-3-specific-instructions-challenge-20-minutes">Part 3: Specific Instructions Challenge (20 minutes)</a></li>
+  <li><a href="#part-4-prompt-writing-challenge-5-minutes" id="toc-part-4-prompt-writing-challenge-5-minutes" class="nav-link" data-scroll-target="#part-4-prompt-writing-challenge-5-minutes">Part 4: Prompt Writing Challenge (5 minutes)</a></li>
   </ul></li>
-  <li><a href="#discussion-reflection" id="toc-discussion-reflection" class="nav-link" data-scroll-target="#discussion-reflection">Discussion &amp; Reflection</a></li>
+  <li><a href="#discussion-reflection-5-minutes" id="toc-discussion-reflection-5-minutes" class="nav-link" data-scroll-target="#discussion-reflection-5-minutes">Discussion &amp; Reflection (5 minutes)</a></li>
   <li><a href="#wrap-up" id="toc-wrap-up" class="nav-link" data-scroll-target="#wrap-up">Wrap-Up</a></li>
   <li><a href="#learning-outcomes" id="toc-learning-outcomes" class="nav-link" data-scroll-target="#learning-outcomes">Learning Outcomes</a></li>
   </ul>
@@ -174,8 +176,8 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Activity 12: Facts and Questions</h1>
-<p class="subtitle lead">Enhancing Computational Thinking through Interactive Coding Challenges.</p>
+<h1 class="title">Activity 12: Prompt Engineering with Dash Robots</h1>
+<p class="subtitle lead">Learning Clear Instructions through Block Coding and Robotics.</p>
   <div class="quarto-categories">
     <div class="quarto-category">Grade: 4</div>
     <div class="quarto-category">Grade: 5</div>
@@ -200,7 +202,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="description" class="level2">
 <h2 class="anchored" data-anchor-id="description">Description</h2>
-<p>Students will engage in an activity designed to introduce them to the fundamentals of prompt engineering. Prompt engineering involves creating well-structured inputs, or prompts, that effectively guide generative AI models to produce desired outputs. Students will be presented with specific facts on various topics and tasked with matching them to corresponding questions. These questions will range from vague, incomplete inquiries to more precise, well-defined ones that align closely with the provided facts. Following this, students will create their own facts and formulate both vague and specific questions based on those facts. Other students will then review these questions and determine whether they are vague or specific. This exercise encourages critical thinking and reinforces the importance of clarity in question formulation.</p>
+<p>Students will learn the fundamentals of prompt engineering through hands-on coding with Dash robots and Blockly. Prompt engineering involves creating well-structured instructions that effectively guide systems (like AI or robots) to produce desired outcomes. Students will practice giving both vague and specific instructions to their Dash robots using block coding, observing how the clarity and precision of their “prompts” (code blocks) directly affect the robot’s behavior. By comparing vague instructions (like “move”) with specific ones (like “move forward 30 cm at speed 50%”), students will understand why clear, detailed prompts are essential in technology and AI interactions.</p>
 </section>
 <section id="time-required" class="level2">
 <h2 class="anchored" data-anchor-id="time-required">Time Required</h2>
@@ -211,46 +213,114 @@ ul.task-list li input[type="checkbox"] {
 <section id="materials-required" class="level2">
 <h2 class="anchored" data-anchor-id="materials-required">Materials required</h2>
 <ul>
-<li><a href="https://docs.google.com/document/d/1mJAJydQ2olyK8WIuekeiCnQtRRAY-yUmrFYf052cTBU/edit">PROMPT ENGINNERING SHEET</a></li>
-<li>Pencil</li>
+<li>Dash robots (1 per pair or small group)</li>
+<li>iPads/tablets with Blockly app installed</li>
+<li>Open space for robot movement</li>
 </ul>
 </section>
 <section id="steps-to-conduct-the-activity" class="level2">
 <h2 class="anchored" data-anchor-id="steps-to-conduct-the-activity">Steps to Conduct the Activity</h2>
-<section id="set-up" class="level3">
-<h3 class="anchored" data-anchor-id="set-up">Set-Up</h3>
+<section id="set-up-5-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="set-up-5-minutes">Set-Up (5 minutes)</h3>
 <ul>
-<li>Pass out the engineering sheet.</li>
+<li>Divide students into pairs or small groups of 3</li>
+<li>Distribute one Dash robot and one iPad/tablet per group</li>
+<li>Have students open the Blockly app and connect to their robot</li>
+<li>Designate a clear area for robot movement</li>
 </ul>
 </section>
-<section id="instructions" class="level3">
-<h3 class="anchored" data-anchor-id="instructions">Instructions</h3>
+<section id="part-1-understanding-vague-vs.-specific-instructions-15-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="part-1-understanding-vague-vs.-specific-instructions-15-minutes">Part 1: Understanding Vague vs.&nbsp;Specific Instructions (15 minutes)</h3>
+<p><strong>Teacher demonstrates:</strong></p>
+<ol type="1">
+<li>Show a VAGUE block code example on screen:
 <ul>
-<li>Students should first complete the prompt enginnering sheet.</li>
-<li>Direct the students to create 2 facts based on one a topic of their choosing, then prompt then to create two question for each fact one being vauge the other being specific.</li>
-<li>Pair students in groups of two to switch sheets to ideinfity which question are vauge and specific.</li>
-<li>Keep switching groups until students have rotated at least three times.</li>
+<li>Single “Move” block with no parameters</li>
+<li>Ask: “What will the robot do? How far? How fast?”</li>
+</ul></li>
+<li>Show a SPECIFIC block code example:
+<ul>
+<li>“Move forward 30 cm at 50% speed”</li>
+<li>Ask: “Now what will happen? Is this clearer?”</li>
+</ul></li>
+<li>Explain: Just like giving instructions to AI, giving instructions to robots requires clarity and detail!</li>
+</ol>
+</section>
+<section id="part-2-vague-instructions-challenge-15-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="part-2-vague-instructions-challenge-15-minutes">Part 2: Vague Instructions Challenge (15 minutes)</h3>
+<p><strong>Students work in roles within their group:</strong></p>
+<ul>
+<li><strong>Role 1 - Coder:</strong> One student creates a short program (3-5 blocks) with intentionally vague or minimal instructions
+<ul>
+<li>Examples:
+<ul>
+<li>“Move” without direction or distance</li>
+<li>“Turn” without specifying degrees</li>
+<li>“Make sound” without choosing which sound</li>
+</ul></li>
+</ul></li>
+<li><strong>Role 2 - Predictor:</strong> Another student predicts what the robot will do without seeing the code details</li>
+<li><strong>Role 3 - Observer:</strong> The group runs the program and observes: “What happened? Was it predictable? What was unclear?”</li>
+<li><strong>Discuss together:</strong> Why did the vague instructions cause confusion or unexpected results?</li>
+<li><strong>Rotate roles</strong> and repeat so each student experiences being the coder</li>
+</ul>
+</section>
+<section id="part-3-specific-instructions-challenge-20-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="part-3-specific-instructions-challenge-20-minutes">Part 3: Specific Instructions Challenge (20 minutes)</h3>
+<p><strong>Students take turns creating specific code:</strong></p>
+<ul>
+<li>Teacher assigns a simple task: “Make Dash draw a square path on the floor”</li>
+<li><strong>Role 1 - Lead Coder:</strong> One student creates SPECIFIC block code with:
+<ul>
+<li>Exact distances (e.g., “Move forward 40 cm”)</li>
+<li>Exact angles (e.g., “Turn right 90 degrees”)</li>
+<li>Speeds and durations</li>
+</ul></li>
+<li><strong>Role 2 - Code Reviewer:</strong> Another student checks the code before running - “Is everything specific? What might go wrong?”</li>
+<li><strong>Role 3 - Tester:</strong> Student runs the program and measures success</li>
+<li><strong>Group discussion:</strong> Did the robot complete the square? What needs adjustment?</li>
+<li>Groups refine their programs together, then <strong>rotate roles</strong> and try a new shape (triangle, rectangle, or letter)</li>
+</ul>
+</section>
+<section id="part-4-prompt-writing-challenge-5-minutes" class="level3">
+<h3 class="anchored" data-anchor-id="part-4-prompt-writing-challenge-5-minutes">Part 4: Prompt Writing Challenge (5 minutes)</h3>
+<p><strong>Groups practice giving verbal “prompts”:</strong></p>
+<ul>
+<li><strong>Role 1 - Prompt Writer:</strong> One student creates a verbal task description without using their hands or pointing (e.g., “Make Dash drive in a triangle” or “Make Dash spin twice and beep”)</li>
+<li><strong>Role 2 - Coder:</strong> Another student tries to code the task using ONLY the verbal description</li>
+<li><strong>Role 3 - Evaluator:</strong> Third student judges if the prompt was clear enough - what details were missing?</li>
+<li><strong>Group reflection:</strong> Compare the final robot behavior to what the prompt writer intended. How could the prompt be more specific?</li>
+<li>Teacher selects 2-3 groups to share their best “specific prompt” examples with the class</li>
 </ul>
 </section>
 </section>
-<section id="discussion-reflection" class="level2">
-<h2 class="anchored" data-anchor-id="discussion-reflection">Discussion &amp; Reflection</h2>
-<p>After the activity has been completed, gather the class for a quick debrief. We can ask:</p>
+<section id="discussion-reflection-5-minutes" class="level2">
+<h2 class="anchored" data-anchor-id="discussion-reflection-5-minutes">Discussion &amp; Reflection (5 minutes)</h2>
+<p>After the activity has been completed, gather the class for a quick debrief. Ask:</p>
 <ul>
-<li>What part of the acitivty was the hardest?</li>
-<li>Did you find identifying question or creating them to be harder?</li>
+<li><strong>What happened when your instructions were vague?</strong> (Robot didn’t do what you expected, results varied)</li>
+<li><strong>How did adding specific details help?</strong> (Robot followed instructions exactly)</li>
+<li><strong>What’s the connection between coding Dash and talking to AI like ChatGPT?</strong> (Both need clear, specific instructions/prompts)</li>
+<li><strong>Can you think of times in real life when vague instructions cause problems?</strong> (Asking for help, following recipes, giving directions)</li>
+<li><strong>What details did you need to include to make your instructions specific?</strong> (Numbers, directions, speeds, order of actions)</li>
 </ul>
+<p><strong>Key Takeaway:</strong> Just like robots, AI systems work best with clear, detailed prompts. Being specific helps technology understand exactly what you want!</p>
 </section>
 <section id="wrap-up" class="level2">
 <h2 class="anchored" data-anchor-id="wrap-up">Wrap-Up</h2>
-<p>As advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Introducing students to these concepts at an early age will enhance their understanding of how prompt engineering works and how it connects to their existing curriculum, fostering essential skills for the future of technology and innovation. Requiring students to formulate more specific and detailed questions will enhance their ability to identify and construct clear, precise prompts, an essential skill in prompt engineering. This practice not only deepens their understanding of the subject matter but also strengthens their critical thinking and problem-solving abilities, which are vital for success in the evolving field of AI and technology.</p>
+<p>As advancements in AI technology continue to grow, prompt engineering has emerged as a critical skill, with increasing demand in the job market. Today’s activity demonstrated that whether you’re coding a robot or prompting an AI, the principle is the same: <strong>specificity and clarity lead to better results</strong>.</p>
+<p>By experiencing firsthand how vague block code produces unpredictable robot behavior while specific code produces consistent results, students develop an intuitive understanding of prompt engineering. This hands-on approach connects abstract AI concepts to tangible robot actions, making the importance of detailed instructions immediately visible and memorable.</p>
+<p>These skills translate directly to using AI tools: a vague prompt like “tell me about animals” produces generic results, while a specific prompt like “list 5 endangered ocean animals and explain why each is endangered” produces focused, useful information. The computational thinking students practice today—breaking down tasks, specifying parameters, and iterating on instructions—prepares them for future careers in technology, AI development, and beyond.</p>
 </section>
 <section id="learning-outcomes" class="level2">
 <h2 class="anchored" data-anchor-id="learning-outcomes">Learning Outcomes</h2>
 <p>By the end of this activity, students should be able to:</p>
 <ul>
-<li>Create detailed questions or prompts.</li>
-<li>Review the questions or prompts given by their peers to determine whether or not they are vague or specific.</li>
+<li>Distinguish between vague and specific instructions through hands-on robot coding</li>
+<li>Create detailed, specific block code sequences that produce predictable robot behavior</li>
+<li>Understand that clarity in instructions (prompts) leads to better outcomes in both robotics and AI</li>
+<li>Apply prompt engineering concepts by testing and refining their code based on robot performance</li>
+<li>Explain why specific prompts are more effective than vague ones in technology interactions</li>
 </ul>
 
 

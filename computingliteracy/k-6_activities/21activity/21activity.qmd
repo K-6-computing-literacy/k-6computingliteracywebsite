@@ -1,65 +1,124 @@
 ---
-title: "Activity 21: Internet Safety: Online Gaming and Video Calling"
-subtitle: "Teaching internet safety through safe gaming and video call practices."
+title: "Activity 21: Gaming Safety & Game Design"
+subtitle: "Learn online gaming safety while creating your own safety-themed video game."
 grades: All grades
-time_required: "45 minutes"
-categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45 Minutes"]
+time_required: "45-60 minutes"
+categories: ["Grade: Kindergarten", "Grade: 1", "Grade: 2", "Grade: 3", "Grade: 4", "Grade: 5", "Grade: 6", "Time: 45-60 Minutes"]
 toc: true 
 page-layout: full
 ---
 
 ## Description
 
-In this activity, students will practice internet safety by learning about safe practices when gaming, chatting, or calling online. Students will watch two videos and complete two short Kahoots to check for understanding.
+In this activity, students will learn about safe online gaming practices and then apply their knowledge by creating their own safety-themed video game using MakeCode Arcade. Students will watch an educational video, complete a Kahoot quiz, and design a game that teaches others about gaming safety.
 
 ## Time Required
 
-- **Estimated Time**: 30-45 minutes
+- **Estimated Time**: 45-60 minutes
 
 ## Materials Required
 
-- [Online Gaming Sheet](https://cyber.org/sites/default/files/2020-11/Online%20Gaming%20Safety%20Tip%20Card_1.pdf)
-- [Video Call Sheet](https://cyber.org/sites/default/files/2020-08/Cyber%20Safety%20Video%20Tip%20Cards%20Video%20Call%20Safety.pdf)
-- [Online Gaming Video](https://www.youtube.com/watch?v=V1b4odH-20g)
-- [Video Call Video](https://www.youtube.com/watch?v=m-Sy92NjFmY)
+- [Online Gaming Safety Tip Card](https://cyber.org/sites/default/files/2020-11/Online%20Gaming%20Safety%20Tip%20Card_1.pdf)
+- [Online Gaming Safety Video](https://www.youtube.com/watch?v=V1b4odH-20g)
 - [Online Gaming Kahoot](https://create.kahoot.it/share/online-gaming-safety-3-5/77c891ac-c62e-4436-b0b9-530f6e2c9c15)
-- [Video Call Kahoot](https://create.kahoot.it/share/video-call-safety-3-5/ddbd8a1e-d9eb-4eb6-9e41-72aa9abf1b26)
+- [MakeCode Arcade](https://arcade.makecode.com/) - Free online game design platform
+- [Example game](https://github.com/K-6-computing-literacy/k-6computingliteracywebsite/blob/main/computingliteracy/k-6_activities/21activity/example.png)
+- Computers or tablets with internet access
+- Optional: Projector for sharing student games
 
 ## Steps to Conduct the Activity
 
+### Introduction
+
+- Discuss with students: "Who plays games online? What games do you play?"
+- Show the [Online Gaming Safety Tip Card](https://cyber.org/sites/default/files/2020-11/Online%20Gaming%20Safety%20Tip%20Card_1.pdf)
+- Explain key safety rules:
+  - Never share personal information (real name, address, school)
+  - Be kind to other players (no bullying or mean comments)
+  - Tell a trusted adult if someone makes you uncomfortable
+  - Use appropriate usernames (no personal information)
+  - Understand that not everyone online is who they say they are
+- Watch the [Online Gaming Safety Video](https://www.youtube.com/watch?v=V1b4odH-20g)
+- Ask students: "What surprised you? What safety tips do you already follow?"
+- Complete the [Online Gaming Kahoot](https://create.kahoot.it/share/online-gaming-safety-3-5/77c891ac-c62e-4436-b0b9-530f6e2c9c15)
+- Review any questions students got wrong to reinforce learning
+
 ### Difficulty Breakdown
 
-#### Introduction
+#### Beginner (Grades K-2)
 
-- Discuss with students about their experiences using the internet and activities they have done online.
-- Explain the importance of being able to identify safe and unsafe practices when gaming online or video calling. Use the sheets as references.
+**Safety Hero Game**
 
-#### Instructions
+- Create a hero character that collects "safe choice" items (green shields, thumbs up)
+- Avoid "unsafe choice" items (red X's, personal information symbols)
+- Add score tracking: +10 for safe choices, -5 for unsafe choices
+- Include a message that appears when you collect items
 
-- Have the students watch the video about safe online gaming practices.
-- Ask the students if they have any questions or noticed a behaviour they have done.
-- Have the students play the Kahoot related to online gaming safety.
-- Have the students watch the video about safe video calling practices.
-- Ask the students if they have any questions or noticed a behaviour they have done.
-- Have the students play the Kahoot related to video calling safety.
-- 🔍 Focus Skills: internet safety, unsafe activity recognition
+**MakeCode Arcade Setup:**
+
+- Navigate to [arcade.makecode.com](https://arcade.makecode.com/)
+- Use pre-made sprites
+- Focus on simple movement and collision detection
+- 🔍 *Focus Skills*: internet safety basics, pattern recognition, cause-and-effect
+
+#### Intermediate (Grades 3-4)
+
+**Cyber Guardian Game**
+
+- Design a character that must protect themselves from online dangers
+- Create different levels representing different gaming scenarios
+- Add enemies that represent online threats (strangers asking for info, cyberbullies)
+- Include power-ups that represent safety strategies (parent supervision, privacy settings)
+
+**Game Requirements:**
+
+- Multiple sprites with different behaviors
+- Movement controls (arrow keys)
+- Score tracking and lives system
+- Basic conditionals for game logic
+- 🔍 *Focus Skills*: internet safety, game design, conditional logic, problem-solving
+
+#### Advanced (Grades 5-6)
+
+**Think Before You Click Game**
+
+- Build a game where players face gaming safety scenarios
+- Players must choose the safe option (multiple choice format)
+- Track correct answers and provide feedback
+- Add a timer to make it more challenging
+- Include multiple levels with increasing difficulty
+
+**Game Requirements:**
+
+- Complex sprite interactions
+- Variables for tracking progress
+- Loops and conditionals
+- Custom game mechanics
+- Polished user interface with instructions
+- 🔍 *Focus Skills*: advanced coding, game design, strategic thinking, internet safety application
 
 ## Discussion & Reflection
 
 After the activity has been completed, gather the class for a quick debrief. We can ask:
 
 - What did you learn about safe online gaming practices?
-- What did you learn about video calling safety?
-- What might you do differently online after watching the video?
+- What safety message does your game teach?
+- How did creating a game help you understand gaming safety better?
+- What was the most challenging part of creating your game?
+- What was the most fun part?
+- What might you do differently when gaming online after this activity?
 
 ## Wrap-Up
 
-This activity aims to enhance students’ understanding of internet safety by actively engaging them in identifying safe and unsafe behaviour when gaming or video calling. By taking quiz Kahoots, students apply their knowledge in a practical and interactive manner, reinforcing internet safety practices.
-
+This activity combines digital citizenship education with hands-on coding and game design. By creating their own safety-themed games, students not only learn important online gaming safety practices but also develop computational thinking skills and creative expression. Students become creators, not just consumers, of games while reinforcing the importance of online safety.
 
 ## Learning Outcomes
 
 By the end of this activity, students should be able to:
 
-- Understand basic safety practices when using the internet or other online tools.
-- Reflect on their previous online usage to establish any necessary changes.
+- Identify safe and unsafe practices when gaming online
+- Explain why personal information should be kept private
+- Recognize appropriate behavior in online gaming communities
+- Create a simple video game using block-based coding
+- Apply gaming safety concepts through creative game design
+- Evaluate gaming scenarios and make safe choices
