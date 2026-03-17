@@ -78,7 +78,7 @@ In this activity, students will learn about safe online gaming practices and the
 - Basic conditionals for game logic
 - 🔍 *Focus Skills*: internet safety, game design, conditional logic, problem-solving
 
-#### Advanced (Grades 5-6)
+#### Intermediate-Advanced (Grades 5-6)
 
 **Think Before You Click Game**
 
@@ -96,6 +96,27 @@ In this activity, students will learn about safe online gaming practices and the
 - Custom game mechanics
 - Polished user interface with instructions
 - 🔍 *Focus Skills*: advanced coding, game design, strategic thinking, internet safety application
+
+#### Advanced (Grades 7-12)
+
+**Don't Get Caught Game**
+
+- Build a game where players have to run away from evil sprites
+- Players must have their sprite controlled by the keyboard
+- The evil sprite must be controlled autonomously
+- Add lives to make the game more challenging
+- Include a "Game Over" message when the player loses all lives
+
+**Game Requirements:**
+
+- Complex sprite interactions
+- Variables for tracking lives
+- Loops and conditionals
+- Custom game mechanics
+- Polished user interface with instructions
+- 🔍 *Focus Skills*: advanced coding, game design, strategic thinking, internet safety application
+
+example game: ![Example Game](/images/21ActivityArcadeEx.png)
 
 ## Discussion & Reflection
 
